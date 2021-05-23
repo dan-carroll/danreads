@@ -9,5 +9,5 @@ title: Authors
       {{ author.name }} - {{ author.genre }} Writer
 	</a>
   </h2>	
-  <p>{{ author.content | markdownify }}</p>
+  <p>{{ author.intro | markdownify }}</p>
 {% endfor %}
