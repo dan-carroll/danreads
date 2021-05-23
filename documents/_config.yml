@@ -1,7 +1,15 @@
 url: "http://dmcarroll.net" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/books" # the subpath of your site, e.g. /blog
-title: ""
+title: "Dan's Reading List and Reviews"
 email: dan@dmcarroll.net
 description: "Lists and reviews of my favorite books and authors."
 twitter_username: FloriDanOnline
 github_username: dan-carroll
+
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+  authors:
+    output: true
+    permalink: /authors/:path/
