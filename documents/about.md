@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: About
 ---
 
-## You're ready to go!
+## About Me
 
 Start developing your Jekyll website.
