@@ -1,8 +1,21 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Home"
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
+  <div class="row">
+    <div class="col">
+		<img src="/books/assets/img/books2b.jpg" alt="book shelf image" width="100%">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col">
+      2 of 3
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>

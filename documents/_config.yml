@@ -6,6 +6,15 @@ description: "Lists and reviews of my favorite books and authors."
 twitter_username: FloriDanOnline
 github_username: dan-carroll
 
+sass:
+    style: compressed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 collections:
   books:
     output: true
