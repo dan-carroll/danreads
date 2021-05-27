@@ -31,7 +31,7 @@
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-xl-5">
 		<div class="container bg-dark">
 		  <span class="navbar-brand mb-0 h1">
-		  <img src="/books/assets/img/icon-192x192.png" alt="books icon" width="50" height="50">
+		  <img src="/assets/img/icon-192x192.png" alt="books icon" width="50" height="50">
 		  &nbsp; &nbsp; Dan Reads</span>
 		</div>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,7 +45,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/books/">Home 
+              <a class="nav-link" href="/">Home 
 			{% if page.title == "Home" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -56,28 +56,29 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="#">News
+              <a class="nav-link" href="/news.html">News
 			{% if page.title == "News" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
 			  </a>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Reviews
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <a class="dropdown-item" href="#">Something else here</a>
-              </div>
+            <li class="nav-item
+			{% if page.title == "Reviews" %}
+			active
+			{% endif %}
+			">
+              <a class="nav-link" href="/reviews.html">Reviews
+			{% if page.title == "Reviews" %}  
+			  <span class="sr-only">(current)</span>
+			{% endif %}
+			  </a>
             </li>
             <li class="nav-item
 			{% if page.title == "Authors" %}
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/books/authors.html">Authors
+              <a class="nav-link" href="/authors.html">Authors
 			{% if page.title == "Authors" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -88,7 +89,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/books/about.html">About
+              <a class="nav-link" href="/about.html">About
 			{% if page.title == "About" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}

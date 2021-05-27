@@ -5,7 +5,7 @@ title: Home
 
   <div class="row">
     <div class="col">
-		<img src="/books/assets/img/books2b.jpg" alt="book shelf image" width="100%">
+		<img src="/assets/img/books2b.jpg" alt="book shelf image" width="100%">
     </div>
   </div>
   <div class="row">

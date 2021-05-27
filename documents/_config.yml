@@ -1,5 +1,5 @@
-url: "http://dmcarroll.net" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/books" # the subpath of your site, e.g. /blog
+url: "http://dmcarroll.net/books" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
 email: dan@dmcarroll.net
 description: "Lists and reviews of my favorite books and authors."
