@@ -10,12 +10,33 @@ title: Home
   </div>
   <div class="row">
     <div class="col">
-      1 of 3
+      <div class="card my-3 mx-auto" style="width: 18rem;">
+		<img class="card-img-top mx-auto" src="/assets/img/read.png" alt="News card image" style="max-width: 80%;height:auto;">
+		<div class="card-body">
+		  <h5 class="card-title">News</h5>
+			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<a href="#" class="btn btn-primary">News Page</a>
+		</div>
+	  </div>
     </div>
     <div class="col">
-      2 of 3
+      <div class="card mt-3 mx-auto" style="width: 18rem;">
+		<img class="card-img-top mx-auto" src="/assets/img/review.png" alt="Reviews card image" style="max-width: 80%;height:auto;">
+		<div class="card-body">
+		  <h5 class="card-title">Reviews</h5>
+		  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		  <a href="#" class="btn btn-primary">Reviews Page</a>
+		</div>
+	  </div>
     </div>
     <div class="col">
-      3 of 3
+      <div class="card mt-3 mx-auto" style="width: 18rem;">
+		<img class="card-img-top mx-auto" src="/assets/img/shakespeare.png" alt="Authors card image" style="max-width: 80%;height:auto;">
+		<div class="card-body">
+		  <h5 class="card-title">Authors</h5>
+		  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+		  <a href="#" class="btn btn-primary">Authors Page</a>
+		</div>
+	  </div>
     </div>
   </div>
