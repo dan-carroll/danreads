@@ -5,7 +5,7 @@ title: Home
 
   <div class="row">
     <div class="col">
-		<img src="/assets/img/books2b.jpg" alt="book shelf image" width="100%">
+		<img src="/assets/img/books2b.jpg" alt="book shelf image" img-fluid width="100%">
     </div>
   </div>
   <div class="row">
@@ -15,7 +15,7 @@ title: Home
 		<div class="card-body">
 		  <h5 class="card-title">News</h5>
 			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-			<a href="#" class="btn btn-primary">News Page</a>
+			<a href="/news.html" class="btn btn-primary">News Page</a>
 		</div>
 	  </div>
     </div>
@@ -25,7 +25,7 @@ title: Home
 		<div class="card-body">
 		  <h5 class="card-title">Reviews</h5>
 		  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		  <a href="#" class="btn btn-primary">Reviews Page</a>
+		  <a href="/reviews.html" class="btn btn-primary">Reviews Page</a>
 		</div>
 	  </div>
     </div>
@@ -35,7 +35,7 @@ title: Home
 		<div class="card-body">
 		  <h5 class="card-title">Authors</h5>
 		  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-		  <a href="#" class="btn btn-primary">Authors Page</a>
+		  <a href="/authors.html" class="btn btn-primary">Authors Page</a>
 		</div>
 	  </div>
     </div>
