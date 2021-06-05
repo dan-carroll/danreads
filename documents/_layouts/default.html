@@ -3,8 +3,15 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no1">
     <meta charset="utf-8">
+	
+	<meta name="author" content="Dan Carroll, Avon Park, FL, USA" />
+	<meta name="document-rights" content="Copyrighted Work" />
+	<meta name="copyright" content="Copyright 2021. Daniel M. Carroll. All Rights Reserved." />
+	<meta name="rating" content="General" />
+	
     <title>{{ page.title }} - {{ site.title }}</title>
-
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+   
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -117,7 +124,7 @@
 				<ul style="list-style-type: none;font-size: 1.2rem;">
 				  <li>
 					<img src="/assets/img/facebook.svg" alt="Facebook" width="28" height="28">
-					  <a href="https://www.facebook.com/floridan/" class="text-white"> Facebook.com/FloriDan</a>
+					  <a href="{{site.facebook}}" class="text-white"> Facebook.com/{{site.facebook_username}}</a>
 				  </li>
 				  <li class="pt-2">
 					<a href="https://twitter.com/FloriDanOnline" class="text-white">
@@ -159,7 +166,9 @@
 	  </div>
 	  
 	  <div class="text-center pt-2 bg-secondary">
-	    <p>Icons made by <a href="https://www.freepik.com" title="Freepik" class="text-white">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon" class="text-white">www.flaticon.com</a></p>
+	    <p>Icons made by <a href="https://www.freepik.com" title="Freepik" class="text-white">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon" class="text-white">www.flaticon.com</a></br>
+		And some <a href="https://getbootstrap.com/docs/4.5/extend/icons/" class="text-white">Bootstrap icons</a>.
+		</p>
 	  </div>
 
 		<!-- Copyright -->

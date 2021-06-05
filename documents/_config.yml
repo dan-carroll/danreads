@@ -3,8 +3,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
 email: dan@dmcarroll.net
 description: "Lists and reviews of my favorite books and authors."
+twitter: https://twitter.com/FloriDanOnline
 twitter_username: FloriDanOnline
+github: https://github.com/dan-carroll
 github_username: dan-carroll
+facebook: https://www.facebook.com/floridan/
+facebook_username: FloriDan
+instagram: https://www.instagram.com/dcarroll809/
+instagram_username: dcarroll809
+linkedin: https://www.linkedin.com/in/dan-carroll-in-florida/
+linkedin_username: dan-carroll-in-florida
 
 sass:
     style: compressed
@@ -22,3 +30,4 @@ collections:
   authors:
     output: true
     permalink: /authors/:path/
+    sort_by: name_key
