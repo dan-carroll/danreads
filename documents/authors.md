@@ -6,11 +6,7 @@ description: Some of my favorite authors.
 
   <div class="row">
     <div class="col">
-		<img src="/assets/img/authors/zane_grey_PD_s1200x630.jpg" alt="Photo of Zane Grey" class="img-fluid" width="18%">
-		<img src="/assets/img/authors/Anne_McCaffrey.jpg" alt="Photo of Anne McCaffrey" class="img-fluid" width="18%">
-		<img src="/assets/img/authors/Louis_L'Amour.jpg" alt="Photo of Louis L'Amour" class="img-fluid" width="18%">
-		<img src="/assets/img/authors/andre.norton.and.cat.2002.jpg" alt="Photo of Andre Norton" class="img-fluid" width="18%">
-		<img src="/assets/img/authors/Mercedes_Lackey.jpg" alt="Photo of Mercedes Lackey" class="img-fluid" width="18%">
+		<img src="/assets/img/authors/Authors_collage_banner.jpg" alt="authors collage" img-fluid width="100%">
     </div>
   </div>
   <div class="row">
