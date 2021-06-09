@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: author
 title: Andre Norton
-description: The Grande Damme of Science Fiction!
+tagline: The Grande Damme of Science Fiction!
 name: Andre Norton
 name_key: norton_andre
 photo: /assets/img/authors/andre.norton.and.cat.2002.jpg
@@ -16,8 +16,5 @@ quote_about:
 intro: 
 ---
 
-## {{page.title}}
-
 This is a test.
 
-[About {{page.name}}]({{ page.web }})

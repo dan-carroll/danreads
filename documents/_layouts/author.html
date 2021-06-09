@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+  <div class="row row-cols-1 row-cols-md-2">
+    <div class="col mb-4 mx-auto">
+      <div class="card mx-auto my-3 pt-2">
+		<img class="card-img-top mx-auto img-fluid" src="{{ page.photo }}" alt="{{ author.name }} photo" style="max-width: 50%;height:auto;">
+		<div class="card-body">
+		  <h2 class="card-title text-primary text-center">{{ page.name }}</h2>
+		  <h5 class="card-subtitle text-center text-muted">
+		  {{ page.tagline }}</h5>
+			<p class="card-text">
+			{% if page.content != "" %}
+				{{ content }}
+			{% elsif page.intro != "" %}
+				{{ page.intro | markdownify }}
+			{% else %}
+				<h5>NO Content</h5>
+			{% endif %}
+			</p>
+		</div>
+	  </div>
+    </div>
+    <div class="col mb-3 mx-auto">
+      <div class="card mx-auto my-3 pt-2">
+		<h5 class="card-header">More about {{ page.name }}</h5>
+		  <ul class="list-group list-group-flush">
+		  {% if page.genre %}
+		    <li class="list-group-item">
+		      <span class="text-primary">Genre:</span> {{ page.genre }}
+			</li>
+		  {% endif %}
+		  {% if page.factoid %}
+		    <li class="list-group-item">
+		      <span class="text-primary">Interesting Fact:</span> {{ page.factoid }}</br>
+			</li>
+		  {% endif %}
+		  {% if page.quote %}
+		    <li class="list-group-item">
+			  <blockquote class="blockquote mb-0">
+			    <p>{{ page.quote }}</p>
+			    <footer class="blockquote-footer">Quote by <cite title="Source Title">{{ page.name }}</cite></footer>
+			  </blockquote>		  
+			</li>
+		  {% endif %}
+		  {% if page.quote_about %}
+		    <li class="list-group-item">
+			  <blockquote class="blockquote mb-0">
+			    <p>{{ page.quote_about }}</p>
+			    <footer class="blockquote-footer">Quote about {{ page.name }} by <cite title="Source Title">{{ page.who_quoted_about }}</cite></footer>
+			  </blockquote>		  
+			</li>
+		  {% endif %}
+		  {% if page.web %}
+		    <li class="list-group-item">
+		      <span class="text-primary">Author's website:</span> <a href="{{ page.web }}" class="text-info font-italic card-link">{{ page.web }}</a>
+			</li>
+		  {% endif %}
+		  {% if page.bio %}
+		    <li class="list-group-item">
+		      <span class="text-primary">Author's biography:</span> <a href="{{ page.bio }}" class="text-info font-italic card-link">{{ page.bio }}</a>
+			</li>
+		  {% endif %}
+		  {% if page.wikipedia %}
+		    <li class="list-group-item">
+		      <span class="text-primary">Author's Wikipedia page:</span> <a href="{{ page.web }}" class="text-info font-italic card-link">{{ page.wikipedia }}</a>
+			</li>
+		  {% endif %}
+		  
+		  </ul>
+	  </div>
+    </div>
+  </div>

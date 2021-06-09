@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: author
 title: Anne McCaffrey
-description: 
+tagline: The Queen of Science Fiction.
 name: Anne McCaffrey
 photo: /assets/img/authors/Anne_McCaffrey.jpg
 name_key: mccaffrey_anne
@@ -17,8 +17,4 @@ quote_about:
 intro: I was introduced to Anne McCaffrey in 1978 through her book The White Dragon. And I've been a voracious consumer of her books ever since. She is a premiere story teller.
 ---
 
-## {{page.title}}
-
 This is a test.
-
-[About {{page.name}}]({{ page.web }})

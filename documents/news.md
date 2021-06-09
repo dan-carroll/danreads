@@ -1,0 +1,32 @@
+---
+layout: default
+title: Current News
+description: Or, What's happening
+---
+
+  <div class="row">
+    <div class="col">
+		
+	  <h1 class="mt-1 text-center text-primary">Current News 
+	  <small class="text-muted"> -- Or What's Happening!</small></h1>
+    </div>
+  </div>
+  <div class="row row-cols-1 row-cols-md-2">
+  
+  {% for post in site.posts %}
+
+	<div class="col mb-4 mx-auto">
+        <div class="card mx-3" style="width: 28rem;">
+		  <img class="card-img-top mx-auto" src="{{ post.image }}" alt="{{ post.image_alt }} image" style="max-width: 80%;height:auto;">
+		  <div class="card-body">
+		    <h2 class="card-title">{{ post.title }}</h2>
+			<p>{{ post.date | date_to_string }} - {{ post.author }}</p>
+			  <p class="card-text">{{ post.excerpt }}</p>
+			  <a href="{{ post.url | relative_url }}">[Read more] -- {{ post.title }}</a>
+		  </div>
+		</div>
+    </div>
+	
+  {% endfor %}	
+    
+  </div>

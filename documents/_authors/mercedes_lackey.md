@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: author
 title: Mercedes Lackey
-description: Fantasy story teller extraordinaire.
+tagline: Fantasy story-teller extraordinaire.
 name: Mercedes Lackey
 name_key: lackey_mercedes
 photo: /assets/img/authors/Mercedes_Lackey.jpg
@@ -16,8 +16,5 @@ quote_about:
 intro: 
 ---
 
-## {{page.title}}
-
 This is a test.
 
-[About {{page.name}}]({{ page.web }})
