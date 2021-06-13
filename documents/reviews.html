@@ -1,0 +1,53 @@
+---
+layout: default
+title: "Interesting Book Reviews"
+sub-title: " -- Or What I Think of Books I Read!"
+permalink: reviews.html
+type: reviews
+list: all
+updated: 2021-06-10
+description: "What I think of the books I have read. And hopefully you'll be interested in reading them too."
+---
+
+  <div class="row">
+    <div class="col">
+		
+	  <h1 class="mt-1 text-left text-primary">{{ page.title }}</br>
+	  <small class="text-muted">{{ page.sub-title }}</small></h1>
+    </div>
+  </div>
+  <div class="row">
+	<div class="col-12 col-md-5 mb-4 mx-auto">
+        <div class="px-3 clearfix">
+		  <p>
+			<img class="mx-2 rounded float-left" src="/assets/img/icon-192x192.png" alt="books icon" style="width: 25%;height:auto;">
+		    <h2>All Reviews</h2>
+		  </p>
+		  <p>
+			<a href="/reviews/reviews-all.html">Ready to read some reviews?</a>
+		  </p>
+		</div>
+	{% for genre in site.data.genres %}
+	
+        <div class="px-3 clearfix">
+		  <p>
+		  {% if genre.image %}
+			<img class="mx-2 rounded float-left" src="{{ genre.image }}" alt="{{ genre.image_alt }}" style="width: 25%;height:auto;">
+		  {% endif %}
+		    <h2>{{ genre.name }}</h2>
+		  </p>
+		  <p>
+			<a href="{{ genre.index_url | relative_url }}">Ready to read some {{ genre.name }} reviews?</a>
+		  </p>
+		</div>
+	
+	{% endfor %}	
+	</div>
+    <div class="col-4 col-md-3 my-4 mx-auto">
+	  Topics (Tags)
+	</div>
+    <div class="col-8 col-md-4 my-4 mx-auto">
+	  Book Genres (Categories)
+	</div>
+  </div>
+  

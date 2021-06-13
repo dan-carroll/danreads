@@ -1,0 +1,107 @@
+- genre: adventure
+  name: Adventure
+  image: "/assets/img/adventure/treasure-map.png"
+  image_alt: "Adventure image"
+  index_url: "/reviews/adventure/"
+  
+- genre: art
+  name: Art
+  image: "/assets/img/art/art.png"
+  image_alt: "Art image"
+  index_url: "/reviews/art/"
+  
+- genre: business
+  name: Business
+  image: "/assets/img/business/business.png"
+  image_alt: "Business image"
+  index_url: "/reviews/business/"
+  
+- genre: children
+  name: Children
+  image: "/assets/img/children/toys.png"
+  image_alt: "Children image"
+  index_url: "/reviews/children/"
+  
+- genre: computer_science
+  name: "Computer Science"
+  image: "/assets/img/computer_science/computer.png"
+  image_alt: "Computer Science image"
+  index_url: "/reviews/computer_science/"
+  
+- genre: engineering
+  name: Engineering
+  image: "/assets/img/engineering/prototype.png"
+  image_alt: "Engineering image"
+  index_url: "/reviews/engineering/"
+  
+- genre: fantasy
+  name: Fantasy
+  image: "/assets/img/fantasy/magic-wand.png"
+  image_alt: "Fantasy image"
+  index_url: "/reviews/fantasy/"
+  
+- genre: finance
+  name: Finance
+  image: "/assets/img/finance/budget.png"
+  image_alt: "Finance image"
+  index_url: "/reviews/finance/"
+  
+- genre: historical_fiction
+  name: Historical Fiction
+  image: "/assets/img/historical_fiction/historical.png"
+  image_alt: "Historical Fiction image"
+  index_url: "/reviews/historical_fiction/"
+  
+- genre: horror
+  name: Horror
+  image: "/assets/img/horror/zombie.png"
+  image_alt: "Horror image"
+  index_url: "/reviews/horror/"
+  
+- genre: math
+  name: Math
+  image: "/assets/img/math/maths.png"
+  image_alt: "Math image"
+  index_url: "/reviews/math/"
+  
+- genre: politics
+  name: Politics
+  image: "/assets/img/politics/politics.png"
+  image_alt: "Politics image"
+  index_url: "/reviews/politics/"
+  
+- genre: religion
+  name: Religion
+  image: "/assets/img/religion/religion.png"
+  image_alt: "Religion image"
+  index_url: "/reviews/religion/"
+  
+- genre: science
+  name: Science
+  image: "/assets/img/science/innovation.png"
+  image_alt: "Science image"
+  index_url: "/reviews/science/"
+  
+- genre: science_fiction
+  name: "Science Fiction"
+  image: "/assets/img/science_fiction/fiction.png"
+  image_alt: "Science Fiction image"
+  index_url: "/reviews/science_fiction/"
+  
+- genre: technology
+  name: Technology
+  image: "/assets/img/technology/cpu.png"
+  image_alt: "Technology image"
+  index_url: "/reviews/technology/"
+  
+- genre: web
+  name: Web
+  image: "/assets/img/web/world-wide-web.png"
+  image_alt: "Web image"
+  index_url: "/reviews/web/"
+  
+- genre: western
+  name: Western
+  image: "/assets/img/western/western.png"
+  image_alt: "Western image"
+  index_url: "/reviews/western/"

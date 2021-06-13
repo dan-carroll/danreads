@@ -121,7 +121,7 @@
 			<div class="card bg-secondary text-white h-100">
 			  <div class="card-body">
 				<h5 class="text-center">Social Sites</h5>
-				<ul style="list-style-type: none;font-size: 1.1rem;">
+				<ul style="list-style-type: none;font-size: 1rem;">
 				  <li>
 					<img src="/assets/img/facebook.svg" alt="Facebook" width="28" height="28">
 					  <a href="{{site.facebook}}" class="text-white"> Facebook.com/{{site.facebook_username}}</a>
@@ -156,8 +156,20 @@
 				<h5 class="text-center">Additional Pages</h5>
 				<ul>
 				  <li>
-					<a href="/policy/" class="text-white">
+					<a href="terms_of_service.html" class="text-white">
+					Terms of Service</a>
+				  </li>
+				  <li>
+					<a href="privacy_policy.html" class="text-white">
+					Privacy Policy</a>
+				  </li>
+				  <li>
+					<a href="review_policy.html" class="text-white">
 					Review Policy</a>
+				  </li>
+				  <li>
+					<a href="cookie_policy.html" class="text-white">
+					Cookie Policy</a>
 				  </li>
 				</ul>
 			  </div>
@@ -167,9 +179,10 @@
 			<div class="card bg-secondary text-white h-100">
 			  <div class="card-body">
 				<h5 class="text-center">Additional Sites</h5>
-				<ul class="list-unstyled">
+				<ul>
 				  <li>
-					
+					<a href="https://dan-carroll.github.io/" class="text-white" target="_blank">
+					365 Day Graphics Design Challenge</a>
 				  </li>
 				</ul>
 			  </div>
@@ -187,6 +200,9 @@
 		<!-- Copyright -->
 	  <div class="text-center py-3 bg-info">© 2021 Dan Carroll @
 		  <a href="https://dmcarroll.net/" class="text-white"> DMCarroll.net</a>
+		  {% if page.updated %}
+		  </br>Updated: {{ page.updated }}
+		  {% endif %}
 	  </div>
 		<!-- Copyright -->
 	 </footer>

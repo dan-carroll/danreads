@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-12 col-md-6 mt-3">
+	<div class="text-center">
+	  <img class="mx-auto" src="{{ page.cover_image }}" alt="{{ page.image_alt }} image" style="max-width:50%;height:auto;">
+	</div>
+	<h2 class="text-center text-primary">{{ page.title }}</h2>
+	<p class="text-center">{{ page.date | date_to_string }} - {{ page.author }}</p>
+  </div>
+  <div class="col-12 col-md-6 m-0 p-0">
+  </div>
+</div>
+<div class="row">
+  <div class="col-12 col-md-6">
+	<div class="p-3">
+	{{ content }}
+	</div>
+  </div>
+  <div class="col-12 col-md-6">
+  
+  </div>
+</div>

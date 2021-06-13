@@ -24,9 +24,9 @@ defaults:
       image: true
 
 collections:
-  books:
+  reviews:
     output: true
-    permalink: /books/:path/
+    permalink: /reviews/:path/
   authors:
     output: true
     permalink: /authors/:path/
