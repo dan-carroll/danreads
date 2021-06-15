@@ -1,0 +1,50 @@
+- name: Audio
+  slug: audio
+
+- name: Author
+  slug: author
+  
+- name: Chess
+  slug: chess
+
+- name: Dragon
+  slug: dragon
+
+- name: Fantasy
+  slug: fantasy
+
+- name: Historical
+  slug: historical
+
+- name: Medieval
+  slug: medieval
+
+- name: Movie
+  slug: movie
+
+- name: Netflix
+  slug: netflix
+
+- name: News
+  slug: news
+
+- name: Science Fiction
+  slug: science-fiction
+  
+- name: Video
+  slug: video
+
+- name: Web
+  slug: web
+
+- name: Welcome
+  slug: welcome
+
+- name: Western
+  slug: western
+  
+- name: Writing
+  slug: writing
+
+- name: Young-Adult
+  slug: young-adult

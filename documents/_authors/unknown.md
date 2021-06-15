@@ -1,23 +1,25 @@
 >---
 layout: default
 title: 
-description: 
+date: 2021-06-07
+updated: 
+tagline: 
 name: 
 name_key: 
 photo: /assets/img/authors/
 genre: 
 wikipedia: 
 amazon: 
+wiki:
 web: 
 bio: 
 factoid: 
 quote: 
 quote_about: 
+tags: [author]
 intro: 
 >---
 
-## {{page.title}}
 
 This is a test.
 
-[About {{page.name}}]({{ page.web }})

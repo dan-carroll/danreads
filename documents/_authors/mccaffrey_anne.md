@@ -1,6 +1,8 @@
 ---
 layout: author
 title: Anne McCaffrey
+date: 2021-06-07
+updated: 
 tagline: The Queen of Science Fiction.
 name: Anne McCaffrey
 photo: /assets/img/authors/Anne_McCaffrey.jpg
@@ -14,6 +16,7 @@ bio: http://pernhome.com/aim/anne-mccaffrey/annes-biography/
 factoid: 
 quote: A good story is a good story no matter who wrote it.
 quote_about: 
+tags: [author, science-fiction]
 intro: I was introduced to Anne McCaffrey in 1978 through her book The White Dragon. And I've been a voracious consumer of her books ever since. She is a premiere story teller.
 ---
 

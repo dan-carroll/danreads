@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /tag-list.html
+title: Site Tags
+sub-title: List of Pages by Tags
+---
+
+  <div class="row">
+    <div class="col">
+		
+	  <h1 class="mt-1 text-left text-primary">{{ page.title }}</br>
+	  <small class="text-muted">{{ page.sub-title }}</small></h1>
+	  
+    <p>
+      {% for tag in site.data.tagList %}
+      <a href="/tags/{{ tag.slug }}.html">#{{ tag.name }}</a>
+	  {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+	
+    </div>
+  </div>
+  

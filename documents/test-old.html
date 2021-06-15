@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /test.html
+---
+
+<div>
+  <h2>Show Posts Tags</h2>
+  {% assign numPosts = site.tags | size %}
+  {% assign postTags = site.tags %}
+  {% if numPosts == 0 %}
+    <p>No posts have tags...yet.</p>
+  {% else %}
+	<p>
+	{% for tag in postTags %}
+	  #{{ tag }} {% unless forloop.last %}, {% endunless %}
+	{% endfor %}
+	</p>
+  {% endif %}
+  </p>
+</div>

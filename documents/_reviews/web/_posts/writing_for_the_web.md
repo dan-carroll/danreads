@@ -26,6 +26,7 @@ Many books offer instruction on how to use software programs to build Web sites,
 This clearly written guide provides a fun and practical approach to Web writing that busy students and writers will be eager to learn and explore.
 *Uses concise, straight-to-the-point style to illustrate techniques for writing sharp and focused Web copy, coupled with compelling visuals and sound *Focuses on writing practices and guidelines, with exercises and prompts developed and tested by the author *Features clear design, with plenty of pictures and visual elements, and a friendly and knowledgeable voice"
 amazon: "https://www.amazon.com/Writing-Web-Creating-Compelling-Pictures-ebook/dp/B00602MJ92/ref=sr_1_1?crid=158YDQYBMBLVZ&dchild=1&keywords=writing+for+the+web&qid=1623331188&sprefix=writing+for+the%2Caps%2C169&sr=8-1"
+tags: [writing, web, video, audio]
 intro: 
 ---
 

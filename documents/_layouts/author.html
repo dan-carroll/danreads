@@ -67,7 +67,11 @@ layout: default
 		      <span class="text-primary">Author's Wikipedia page:</span> <a href="{{ page.web }}" class="text-info font-italic card-link">{{ page.wikipedia }}</a>
 			</li>
 		  {% endif %}
-		  
+		  {% if page.tags %}
+			<li class="list-group-item">
+		  {% include page-tags.html %}
+			</li>
+		  {% endif %}
 		  </ul>
 	  </div>
     </div>

@@ -24,6 +24,9 @@ defaults:
       image: true
 
 collections:
+  tags:
+    output: true
+    permalink: /tags/:path/    
   reviews:
     output: true
     permalink: /reviews/:path/
