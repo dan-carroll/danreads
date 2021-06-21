@@ -5,6 +5,7 @@ sub-title: "List of Engineering Reviews"
 genre: engineering
 type: index
 permalink: "/reviews/engineering/"
+summary: 
 image: "/assets/img/engineering/prototype.png"
 image_alt: "Engineering image"
 number: 0

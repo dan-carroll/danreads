@@ -2,19 +2,13 @@
 layout: default
 permalink: /test.html
 title: TEST
-date: 2021-06-17
-updated: 
-tags: 
-author: Dan Carroll - Florida
-summary: Not worth linking too. Only good for development. It displays system settings and variables.
 ---
-
 
   <h1 class="mt-1 text-left text-danger">{{ page.title }}</h1>
   
   <div class="row">
     <div class="col">
-	
+<!--		
 	  <section>
 	    <h4 class="mt-1 text-left text-primary">Global Variables</h4>
         <p>
@@ -48,19 +42,7 @@ summary: Not worth linking too. Only good for development. It displays system se
 		  <b>Page Count:</b> [{{ numPages }}]<br/>
 		  <b>Page List:</b> 
         {% for item in site.pages %}
-		  {{ item.title }}:{{ item.url }}{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-        </p>
-	  </section>
-		
-	  <section>
-	    <h4 class="mt-1 text-left text-primary">Site Collections</h4>
-        <p>
-        {% assign numCollections = site.collections | size %}
-		  <b>Post Count:</b> [{{ numCollections }}]<br/>
-		  <b>Post List:</b> 
-        {% for item in site.collections %}
-		  {{ item }}{% unless forloop.last %}, {% endunless %}
+		  {{ item.name }}:{{ item.url }}{% unless forloop.last %}, {% endunless %}
         {% endfor %}
         </p>
 	  </section>
@@ -72,23 +54,23 @@ summary: Not worth linking too. Only good for development. It displays system se
 		  <b>Post Count:</b> [{{ numPosts }}]<br/>
 		  <b>Post List:</b> 
         {% for item in site.posts %}
-		  {{ item.title }}:{{ item.url }}{% unless forloop.last %}, {% endunless %}
+		  {{ item.name }}:{{ item.url }}{% unless forloop.last %}, {% endunless %}
         {% endfor %}
         </p>
 	  </section>
 		
 	  <section>
-	    <h4 class="mt-1 text-left text-primary">Image Files</h4>
+	    <h4 class="mt-1 text-left text-primary">Static Files</h4>
         <p>
-        {% assign numFiles = site.static_files | where: "image", true | size %}
+        {% assign numFiles = site.static_files | size %}
 		  <b>File Count:</b> [{{ numFiles }}]<br/>
 		  <b>File List:</b> 
-		{% assign image_files = site.static_files | where: "image", true %}
-        {% for item in image_files %}
-		{{ item.path }} {% unless forloop.last %}, {% endunless %}
+        {% for item in site.static_files %}
+		  {{ item.name }}:{{ item.path }} {% unless forloop.last %}, {% endunless %}
         {% endfor %}
         </p>
 	  </section>
-	  
+-->	
     </div>
-  </div>	
+  </div>
+  

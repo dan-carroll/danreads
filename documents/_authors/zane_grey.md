@@ -1,9 +1,12 @@
 ---
 layout: author
 title: Zane Grey
+permalink: /authors/zane_grey.html
 date: 2021-06-07
 updated: 
+tags: [author, western]
 tagline: A classical Western story teller.
+summary: 
 name: Zane Grey
 name_key: grey_zane
 photo: /assets/img/authors/zane_grey_PD_s1200x630.jpg
@@ -16,7 +19,6 @@ factoid: Grey was President Dwight D. Eisenhower's favorite writer.
 quote: I need this wild life, this freedom.
 quote_about: "[He] had the knack of tying his characters into the land, and the land into the story. There were other Western writers who had fast and furious action, but Zane Grey was the one who could make the action not only convincing but inevitable, and somehow you got the impression that the bigness of the country generated a bigness of character."
 who_quoted_about: "Erle Stanley Gardner, prolific author of mystery novels and the Perry Mason series"
-tags: [author, western]
 intro: One of my first favorite authors. Colorful Western settings and characters were depicted with interesting story lines.
 ---
 

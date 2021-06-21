@@ -5,6 +5,7 @@ sub-title: "List of Adventure Reviews"
 genre: adventure
 type: index
 permalink: "/reviews/adventure/"
+summary: 
 image: "/assets/img/adventure/treasure-map.png"
 image_alt: "Adventure image"
 number: 0

@@ -5,6 +5,7 @@ sub-title: "List of Children Reviews"
 genre: children
 type: index
 permalink: "/reviews/children/"
+summary: 
 image: "/assets/img/children/toys.png"
 image_alt: "Children image"
 number: 0

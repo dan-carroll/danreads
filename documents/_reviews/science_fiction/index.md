@@ -5,6 +5,7 @@ sub-title: "List of Science Fiction Reviews"
 genre: science_fiction
 type: index
 permalink: "/reviews/science_fiction/"
+summary: 
 image: "/assets/img/science_fiction/fiction.png"
 image_alt: "Science Fiction image"
 number: 0

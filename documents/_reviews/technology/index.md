@@ -5,6 +5,7 @@ sub-title: "List of Technology Reviews"
 genre: technology
 type: index
 permalink: "/reviews/technology/"
+summary: 
 image: "/assets/img/technology/cpu.png"
 image_alt: "Technology image"
 number: 0

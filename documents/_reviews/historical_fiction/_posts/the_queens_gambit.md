@@ -6,6 +6,8 @@ series_num:
 permalink: /reviews/historical_fiction/the_queens-gambit.html
 date: 2021-06-12
 updated: 
+tags: [historical, chess, young-adult, netflix, movie]
+summary: 
 type: review
 sub_type: historical_fiction
 author: Walter Tevis
@@ -19,6 +21,5 @@ cover_image: /assets/img/covers/the_queens_gambit.jpg
 image_alt: "The Queen's Gambit cover"
 amazon: "https://www.amazon.com/Queens-Gambit-Novel-Walter-Tevis/dp/1400030609/ref=sr_1_1?crid=1RJ59Q9C3HL89&dchild=1&keywords=the+queens+gambit&qid=1623614054&s=books&sprefix=the+queen%2Cstripbooks%2C186&sr=1-1"
 web: 
-tags: [historical, chess, young-adult, netflix, movie]
 intro: 
 ---

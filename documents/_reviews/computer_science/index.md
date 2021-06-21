@@ -5,6 +5,7 @@ sub-title: "List of Computer Science Reviews"
 genre: computer_science
 type: index
 permalink: "/reviews/computer_science/"
+summary: 
 image: "/assets/img/computer_science/computer.png"
 image_alt: "Computer Science image"
 number: 0

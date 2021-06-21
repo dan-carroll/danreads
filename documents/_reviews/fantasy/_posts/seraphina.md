@@ -6,6 +6,8 @@ series_num: 1
 permalink: "/reviews/fantasy/seraphina.html"
 date: 2021-06-09
 updated: 
+tags: [dragon, medieval, fantasy]
+summary: 
 type: review
 sub_type: fantasy
 genre: fantasy
@@ -19,7 +21,6 @@ cover_image: /assets/img/covers/Seraphina2.jpg
 image_alt: Seraphina fantasy book cover
 amazon: "https://www.amazon.com/gp/product/0375866221?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks"
 web: 
-tags: [dragon, medieval, fantasy]
 intro: 
 ---
 

@@ -5,6 +5,7 @@ sub-title: "List of Western Reviews"
 genre: western
 type: index
 permalink: "/reviews/western/"
+summary: 
 image: "/assets/img/western/western.png"
 image_alt: "Western image"
 number: 0

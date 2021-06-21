@@ -5,6 +5,7 @@ sub-title: "List of Business Reviews"
 genre: business
 type: index
 permalink: "/reviews/business/"
+summary: 
 image: "/assets/img/business/business.png"
 image_alt: "Business image"
 number: 0

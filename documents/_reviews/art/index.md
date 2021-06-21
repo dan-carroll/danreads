@@ -5,6 +5,7 @@ sub-title: "List of Art Reviews"
 genre: art
 type: index
 permalink: "/reviews/art/"
+summary: 
 image: "/assets/img/art/art.png"
 image_alt: "Art image"
 number: 0

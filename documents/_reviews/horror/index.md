@@ -5,6 +5,7 @@ sub-title: "List of Horror Reviews"
 genre: horror
 type: index
 permalink: "/reviews/horror/"
+summary: 
 image: "/assets/img/horror/zombie.png"
 image_alt: "Horror image"
 number: 0

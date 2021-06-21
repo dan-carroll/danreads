@@ -1,9 +1,14 @@
 ---
 layout: author
-title: 
+title: unknown
+permalink: /authors/unknown.html
+date: 2021-06-07
+updated: 
+tags: [author]
 tagline: 
-name: 
-name_key: 
+summary: 
+name: unknown
+name_key: unknown
 photo: /assets/img/authors/.jpg
 genre: 
 wikipedia: 

@@ -5,6 +5,7 @@ sub-title: "List of Politics Reviews"
 genre: politics
 type: index
 permalink: "/reviews/politics/"
+summary: 
 image: "/assets/img/politics/politics.png"
 image_alt: "Politics image"
 number: 0

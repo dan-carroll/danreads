@@ -1,9 +1,12 @@
 ---
 layout: author
 title: Louis L'Amour
+permalink: /authors/louis_lamour.html
 date: 2021-06-07
 updated: 
+tags: [author, western]
 tagline: A Western and Historical story teller.
+summary: 
 name: Louis L'Amour
 name_key: lamour_louis
 photo: /assets/img/authors/Louis_L'Amour.jpg
@@ -16,7 +19,6 @@ bio: http://www.louislamour.com/aboutlouis/biography.htm
 factoid: Before WWII Louis was mostly writing adventure and boxing stories...
 quote: There will come a time when you believe everything is finished. Yet that will be the beginning.
 quote_about: 
-tags: [author, western]
 intro: More than just a writer of Westerns, Louis L'Amour was a grand story teller. I used to keep a folded note in my wallet with the title of each of his books I had read. I scoured bookstores and libraries looking for the odd one I hadn't read yet. I quit tallying these titles sowmwhere after 60+.
 ---
 

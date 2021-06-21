@@ -34,3 +34,6 @@ collections:
     output: true
     permalink: /authors/:path/
     sort_by: name_key
+
+# Google analytics
+google_analytics: G-FWRRPHVQCQ
