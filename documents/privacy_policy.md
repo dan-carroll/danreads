@@ -26,3 +26,6 @@ In the future we may ask if you would be interested in commenting on our article
 
 
 
+#### Third Parties
+
+Google Analytics will be used to track and report on website traffic. This data is stored by Google and agregated there. To learn more, follow this link to [Wikipedia's Google Analytics page](https://en.wikipedia.org/wiki/Google_Analytics){:target="_blank"}.
