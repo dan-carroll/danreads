@@ -1,29 +1,27 @@
 >---
 layout: review
 title: 
-series:
-series_num:
+series: 
+series_num: 
 permalink: 
 date: 
 updated: 
+tags: 
 type: 
 sub_type: 
 author: 
+author_page: 
 publisher: 
-copyright:
+copyright: 
 description: 
 genre: 
 format: 
 number_pages: 
-cover_image: /assets/img/books/
+cover_image: /assets/img/covers/
 image_alt: 
 amazon: 
 web: 
 intro: 
 >---
 
-## {{page.title}}
 
-This is a test.
-
-[About {{page.name}}]({{ page.web }})

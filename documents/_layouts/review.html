@@ -4,6 +4,10 @@ layout: default
 
 <div class="row">
   <div class="col-12 col-md-6 mt-3">
+	<p>
+	  <a href="/reviews.html">Reviews</a>&nbsp;/&nbsp;<a href="/reviews/{{ page.genre }}/">{{ page.genre | replace: "_", " " | capitalize }}</a>
+	    &nbsp;/&nbsp;{{ page.title }}
+	<p>
 	<div class="text-center">
 	  <img class="mx-auto" src="{{ page.cover_image }}" alt="{{ page.image_alt }} image" style="max-width:50%;height:auto;">
 	</div>
@@ -32,11 +36,26 @@ layout: default
 	</div>
 	{% endif %}
   </div>
-  <div class="col-12 col-md-6 m-0 p-0">
+  <div class="col-12 col-md-6 mt-3">
+    {% if page.series %}
+	<h2 class="text-primary">{{ page.series }}</h2>
+	{% assign filtered_posts = site.reviews | where: 'series', page.series %}
+	<ul style="list-style-type:none">
+	{% for review in filtered_posts %}
+	  <li class="h5 text-info"><a href="{{ review.url }}">{{ review.title }}&nbsp;#{{ review.series_num }}</a></li>
+	{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.author_page %}
+	<div class="p-3">
+	<a href="/authors/{{page.author_page}}.html" class="h5 text-info">Visit {{ page.author }}'s Page</a>
+	</div>
+	{% endif %}
   </div>
 </div>
 <div class="row">
   <div class="col-12 col-md-6">
+  
   </div>
   <div class="col-12 col-md-6">
   

@@ -10,12 +10,18 @@
 - name: Dragon
   slug: dragon
 
+- name: ESP
+  slug: esp
+  
 - name: Fairy Tale
-  slug: fairy_tale
+  slug: fairytale
   
 - name: Fantasy
   slug: fantasy
 
+- name: Folk Tale
+  slug: folktale
+  
 - name: Historical
   slug: historical
 
@@ -37,6 +43,9 @@
 - name: Science Fiction
   slug: science-fiction
   
+- name: Talents
+  slug: talents
+  
 - name: Video
   slug: video
 
@@ -52,5 +61,6 @@
 - name: Writing
   slug: writing
 
-- name: Young-Adult
-  slug: young-adult
+- name: Youth
+  slug: youth
+  
