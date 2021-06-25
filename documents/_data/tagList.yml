@@ -10,12 +10,18 @@
 - name: Dragon
   slug: dragon
 
+- name: Fairy Tale
+  slug: fairy_tale
+  
 - name: Fantasy
   slug: fantasy
 
 - name: Historical
   slug: historical
 
+- name: Magic
+  slug: magic
+  
 - name: Medieval
   slug: medieval
 
