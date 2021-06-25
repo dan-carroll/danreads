@@ -26,6 +26,10 @@ layout: default
 	  {% endif %}
 	  <a href="{{ review.url }}">
 	  <h2 class="text-primary">{{ review.title }}</h2></a>
+	  {% if review.series %}
+	  <h5 class="text-muted">{{ review.series }} Series
+	    {% if review.series_num %}&nbsp;#{{ review.series_num }} {% endif %} </h5>
+      {% endif %}	
 	  <h4 class="pl-4">{{ review.copyright }}  --  {{ review.author }}</h4>
 	  <p>{{ review.description }}</p>
 	  {% endfor %}

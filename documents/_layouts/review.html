@@ -8,10 +8,14 @@ layout: default
 	  <img class="mx-auto" src="{{ page.cover_image }}" alt="{{ page.image_alt }} image" style="max-width:50%;height:auto;">
 	</div>
 	<h2 class="text-center text-primary">{{ page.title }}</h2>
-	<p class="text-center">{{ page.date | date_to_string }} - {{ page.author }}
+	{% if page.series %}
+	<h4 class="text-center text-muted">{{ page.series }} Series
+	  {% if page.series_num %}&nbsp;#{{ page.series_num }} {% endif %} </h4>
+    {% endif %}	
 	{% if page.updated %}
 	<br>Updated:&nbsp;{{ page.updated | date_to_string }}
 	{% endif %}
+	<p class="text-center">{{ page.date | date_to_string }} - {{ page.author }}
 	</p>
 	{% if page.intro %}
 	<div class="bd-callout bd-callout-info mx-2">

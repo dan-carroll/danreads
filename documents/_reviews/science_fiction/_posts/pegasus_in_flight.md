@@ -6,6 +6,7 @@ series_num: 2
 permalink: /reviews/science_fiction/pegasus_in_flight.html
 date: 2021-06-24
 updated: 
+tags: [talents, ESP, science_fiction]
 type: review
 sub_type: science_fiction
 author: Anne McCaffrey
