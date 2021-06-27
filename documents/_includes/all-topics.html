@@ -1,0 +1,8 @@
+	  <section id="">
+	  <h4>Topics (Tags)</h4>
+        {% for tag in site.data.tagList %}
+	    <p class="pl-3 mb-1">
+          <a class="post" href="/tags/{{ tag.slug }}.html">{{tag.name}}</a>
+        </p>	  
+        {% endfor %}
+	  </section>

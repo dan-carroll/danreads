@@ -1,7 +1,7 @@
 ---
 layout: default
-tag-name: young-adult
-permalink: /tags/young-adult.html
+tag-name: talents
+permalink: /tags/talents.html
 ---
 
 {% include tag-articles.html %}

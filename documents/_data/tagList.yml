@@ -41,7 +41,7 @@
   slug: news
 
 - name: Science Fiction
-  slug: science-fiction
+  slug: science_fiction
   
 - name: Talents
   slug: talents

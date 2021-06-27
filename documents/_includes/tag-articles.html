@@ -1,22 +1,22 @@
 <div>
   <h1>Articles tagged with "{{ page.tag-name }}"</h1>
-  <ul style='padding-top: 16px;'>
+  <ul class="list-unstyled p-3">
   
   {% for post in site.reviews %}
     {% if post.tags contains page.tag-name %}
-      <li><span class="badge badge-pill badge-primary">Review</span> <a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+      <li class="pb-1"> <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;&nbsp;<span class="badge badge-pill badge-primary">Review</span>&nbsp;&nbsp;published {{ post.date | date: "%Y-%m-%d" }}</li>
     {% endif %}
   {% endfor %}
   
   {% for post in site.posts %}
     {% if post.tags contains page.tag-name %}
-      <li><span class="badge badge-pill badge-success">News</span> <a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+      <li class="pb-1"> <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;&nbsp;<span class="badge badge-pill badge-success">News</span>&nbsp;&nbsp;published {{ post.date | date: "%Y-%m-%d" }}</li>
     {% endif %}
   {% endfor %}
   
   {% for post in site.authors %}
     {% if post.tags contains page.tag-name %}
-      <li><span class="badge badge-pill badge-info">Author</span> <a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+      <li class="pb-1"> <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;&nbsp;<span class="badge badge-pill badge-info">Author</span>&nbsp;&nbsp;published {{ post.date | date: "%Y-%m-%d" }}</li>
     {% endif %}
   {% endfor %}
   

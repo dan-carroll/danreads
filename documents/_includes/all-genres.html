@@ -1,0 +1,9 @@
+	  <section id="">
+	  <h4>Book Genres (Categories)</h4>
+        {% for genre in site.data.genres %}
+	    <p class="pl-3 mb-1">
+          <a href="{{ genre.index_url | relative_url }}">{{ genre.name }}</a>
+        </p>	  
+        {% endfor %}
+	  
+	  </section>

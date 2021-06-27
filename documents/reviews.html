@@ -39,29 +39,28 @@ description: "What I think of the books I have read. And hopefully you'll be int
 			{% for review in filtered_posts %}
 			  {% assign my_count = my_count | plus: 1 %}
 			{% endfor %}
+		{% if my_count > 0 %}
+		
 		<div class="px-3 clearfix">
 		  <p>
 		  {% if genre.image %}
 			<img class="mx-2 rounded float-left" src="{{ genre.image }}" alt="{{ genre.image_alt }}" style="width: 25%;height:auto;">
 		  {% endif %}
-		  {% if my_count > 0 %}
 			<h2>{{ genre.name }}&nbsp;&nbsp;<span class="badge badge-info">{{ my_count }}</span></h2>
-	      {% else %}
-		    <h2>{{ genre.name }}&nbsp;&nbsp;<span class="badge badge-secondary">{{ my_count }}</span></h2>
-		  {% endif %}
 		  </p>
 		  <p>
 			<a href="{{ genre.index_url | relative_url }}">Ready to read some {{ genre.name }} reviews?</a>
 		  </p>
 		</div>
 	
+		{% endif %}
 	{% endfor %}	
 	</div>
     <div class="col-4 col-md-3 my-4 mx-auto">
-	  Topics (Tags)
+{% include all-topics.html %}
 	</div>
     <div class="col-8 col-md-4 my-4 mx-auto">
-	  Book Genres (Categories)
+{% include all-genres.html %}
 	</div>
   </div>
   
