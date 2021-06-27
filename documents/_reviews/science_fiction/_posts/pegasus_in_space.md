@@ -33,3 +33,12 @@ There is Peter Reidinger, a teenage paraplegic who happens to be the strongest t
 Now, as sabotage and attempted murder strike the Station, it's up to the Talented to save the day. Only who's going to save the Talented?"
 ---
 
+Another great Talent tale. Peter Reidinger continues to mature physically and in his abilities. He can make up for being a paraplegic with his abilities.
+
+Peter is able to move objects and people around the planet but can he go furhter? And is their ever going to be a way to heal is spine. Simulated walking with kinetics gives an illusion. But will he actually ever be able to walk again.
+
+And with Peter's skill and strength in his kinetics finally reach their limits? What about the new micro-kinetic Talent. What are her actual capabilities? Her limits?
+
+With the Stars as the goal, will they be out of reach for the Talented and the rest of humanity. Pick up your copy of *Pegasus In Space* and enjoy the adventure.
+
+Another great story from [Anne McCaffrey](/authors/anne_mccaffrey.html). Imagine if Talents existed in our world. What could be accomplished?
