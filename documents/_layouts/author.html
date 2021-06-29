@@ -39,7 +39,7 @@ layout: default
 		  {% if page.quote %}
 		    <li class="list-group-item">
 			  <blockquote class="blockquote mb-0">
-			    <p>{{ page.quote }}</p>
+			    <p>{{ page.quote | markdownify }}</p>
 			    <footer class="blockquote-footer">Quote by <cite title="Source Title">{{ page.name }}</cite></footer>
 			  </blockquote>		  
 			</li>
@@ -65,6 +65,12 @@ layout: default
 		  {% if page.wikipedia %}
 		    <li class="list-group-item">
 		      <span class="text-primary">Author's Wikipedia page:</span> <a href="{{ page.web }}" class="text-info font-italic card-link">{{ page.wikipedia }}</a>
+			</li>
+		  {% endif %}
+		  {% if page.movies %}
+		    <li class="list-group-item">
+			  <span class="h5">Movies</span><br>
+			  {{ page.movies | markdownify }}
 			</li>
 		  {% endif %}
 		  {% if page.tags %}

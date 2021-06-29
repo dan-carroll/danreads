@@ -25,7 +25,13 @@ description: Some of my favorite authors.
 		  <div class="card-body">
 		    <h2 class="card-title">{{ author.title }}</h2>
 		    <h5 class="card-subtitle text-muted">{{ author.genre }} Writer</h5>
+			{% if author.intro %}
 			  <p class="card-text">{{ author.intro | markdownify }}</p>
+			{% elsif author.quote_about %}
+			  <p class="card-text">{{ author.quote_about | markdownify }}</p>
+			{% elsif author.quote %}
+			  <p class="card-text">{{ author.quote | markdownify }}</p>
+			{% endif %}
 			  <a href="{{ author.url | relative_url }}" class="btn btn-primary">Author's Page</a>
 		  </div>
 		</div>

@@ -19,7 +19,12 @@ layout: default
 	{% if page.updated %}
 	<br>Updated:&nbsp;{{ page.updated | date_to_string }}
 	{% endif %}
-	<p class="text-center">{{ page.date | date_to_string }} - {{ page.author }}
+	<p class="text-center">{{ page.date | date_to_string }}&snbsp;-&nbsp;
+	{% if page.author_page %}
+	<a href="/authors/{{ page.author_page }}.html">{{ page.author }}</a>
+	{% else %}
+	{{ page.author }}
+	{% endif %}
 	</p>
 	{% if page.intro %}
 	<div class="bd-callout bd-callout-info mx-2">

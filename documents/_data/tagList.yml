@@ -7,6 +7,9 @@
 - name: Chess
   slug: chess
 
+- name: Crime Fiction
+  slug: crime_fiction
+  
 - name: Dragon
   slug: dragon
 
@@ -31,9 +34,15 @@
 - name: Medieval
   slug: medieval
 
+- name: Military Fiction
+  slug: military_fiction
+  
 - name: Movie
   slug: movie
 
+- name: Mystery
+  slug: mystery
+  
 - name: Netflix
   slug: netflix
 
@@ -42,9 +51,15 @@
 
 - name: Science Fiction
   slug: science_fiction
+
+- name: Suspense
+  slug: suspense
   
 - name: Talents
   slug: talents
+
+- name: Thriller
+  slug: thriller
   
 - name: Video
   slug: video

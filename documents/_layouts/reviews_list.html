@@ -32,7 +32,12 @@ layout: default
 	  <h5 class="text-muted">{{ review.series }} Series
 	    {% if review.series_num %}&nbsp;#{{ review.series_num }} {% endif %} </h5>
       {% endif %}	
-	  <h4 class="pl-4">{{ review.copyright }}  --  {{ review.author }}</h4>
+	  <h4 class="pl-4">{{ review.copyright }}&nbsp;&nbsp;--&nbsp;&nbsp;
+	  {% if review.author_page %}
+	  <a href="/authors/{{ review.author_page }}.html">{{ review.author }}</a></h4>
+	  {% else %}
+	  {{ review.author }}</h4>
+	  {% endif %}
 	  <p>{{ review.description }}</p>
 	  {% endfor %}
 	
