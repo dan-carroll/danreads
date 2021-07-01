@@ -13,6 +13,7 @@ sub_type: fantasy
 genre: fantasy
 format: ebook
 author: Rachel Hartman
+author_page:
 publisher: Random House Books for Young Readers
 copyright: 2012
 description: Lyrical, imaginative, and wholly original, this New York Times bestseller with 8 starred reviews is not to be missed.  Rachel Hartman’s award-winning debut will have you looking at dragons as you’ve never imagined them before…
