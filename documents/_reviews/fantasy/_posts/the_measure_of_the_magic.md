@@ -3,8 +3,8 @@ layout: review
 title: The Measure of the Magic
 series: Legends of Shannara
 series_num: 2
-permalink: /reviews/fantasy/the_measure_of_
-date: 2021-06-07
+permalink: /reviews/fantasy/the_measure_of_the_magic.html
+date: 2021-07-02
 updated: 
 published: true
 tags: [fantasy, magic, elves, trolls, demons]
@@ -12,9 +12,9 @@ type: review
 sub_type: fantasy
 author: Terry Brooks
 author_page: terry_brooks
-publisher: DelRey Books
+publisher: Del Rey Books
 copyright: 2011
-description: 
+description: "For five hundred years, the survivors of the Great Wars lived peacefully in a valley sanctuary shielded by powerful magic from the dangerous outside world. But the enchanted barriers have crumbled, and the threat of annihilation looms large once more."
 genre: fantasy
 format: hardcover
 number_pages: 383
