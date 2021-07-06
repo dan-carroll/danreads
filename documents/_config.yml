@@ -3,6 +3,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
 email: dan@dmcarroll.net
 description: "Lists and reviews of my favorite books and authors."
+author: "Dan Carroll, Florida, USA"
+copyright: "Copyright 2021. Daniel M. Carroll. All Rights Reserved."
+rating: General
+
 twitter: https://twitter.com/FloriDanOnline
 twitter_username: FloriDanOnline
 github: https://github.com/dan-carroll
