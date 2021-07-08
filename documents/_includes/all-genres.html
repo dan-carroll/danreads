@@ -1,9 +1,16 @@
 	  <section id="">
 	  <h4>Book Genres (Categories)</h4>
         {% for genre in site.data.genres %}
+	    {% assign my_count = 0 %}
 	    <p class="pl-3 mb-1">
           <a href="{{ genre.index_url | relative_url }}">{{ genre.name }}</a>
+		  {% assign filtered_posts = site.reviews | where: 'sub_type', genre.genre %}
+			{% for review in filtered_posts %}
+			  {% assign my_count = my_count | plus: 1 %}
+			{% endfor %}
+		  {% if my_count > 0 %}
+		    &nbsp;&nbsp;<span class="badge badge-info">{{ my_count }}</span>
+	      {% endif %}
         </p>	  
         {% endfor %}
-	  
 	  </section>

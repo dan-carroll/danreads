@@ -5,7 +5,7 @@ series: The Original Shannara Trilogy
 series_num: 1
 permalink: /reviews/fantasy/the_sword_of_shannara.html
 date: 2021-07-03
-updated: 
+updated: 2021-07-07
 author: Dan Carroll - Florida
 published: false
 tags: [fantasy, magic, elves, demons]
@@ -26,4 +26,6 @@ web: "https://www.goodreads.com/book/show/15575.The_Sword_of_Shannara"
 intro: 
 ---
 
+A great first novel by author *Terry Brooks*. An excellent story with easily identifiable characters. This book is long enough to tell the story but nowhere near as long as some tomes in the Fantasy genre.
 
+I enjoyed this book so much I had to reread it again a few years later. Now I need to reread the whole trilogy again. I have been "woke" by what I discovered in the Netflix series "*The Shannara Chronicles*". These stories occur in a future version of our own earth, not in some fairytale land.

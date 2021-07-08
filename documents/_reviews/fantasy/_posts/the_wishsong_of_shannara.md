@@ -21,7 +21,7 @@ format: hardback
 number_pages: 
 cover_image: /assets/img/covers/the_wishsong_of_shannara.jpg
 image_alt: "Cover art for The Wishsong of Shannara"
-amazon: ""
+amazon: "https://www.amazon.com/Wishsong-Shannara-Chronicles/dp/0345356365"
 web: "https://www.goodreads.com/book/show/15567.The_Wishsong_of_Shannara"
 intro: 
 ---
