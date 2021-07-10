@@ -3,8 +3,10 @@ layout: review
 title: Bearers of the Black Staff
 series: Legends of Shannara
 series_num: 1
+world_series: Shannara
+world_num: 7
 permalink: /reviews/fantasy/bearers_of_the_black_staff.html
-date: 2021-07-02
+date: 2021-07-08
 updated: 
 author: Dan Carroll - Florida
 published: true
@@ -21,7 +23,15 @@ format: hardcover
 number_pages: 353
 cover_image: /assets/img/covers/bearers_of_the_black_staff.jpg
 image_alt: "Cover art for the Bearers of the Black Staff"
-amazon: ""
+ISBN: 0345484177
+ASIN: 
+amazon_cover: |
+  <a target="_blank"  href="https://www.amazon.com/gp/product/0345484177/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345484177&linkCode=as2&tag=floridan21-20&linkId=cd56e1281a02995e8165f76d0b9a6297"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0345484177&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=floridan21-20" ></a>
+amazon_text: |
+  <a target="_blank" href="https://www.amazon.com/gp/product/0345484177/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345484177&linkCode=as2&tag=floridan21-20&linkId=f2becd3458123b2df70081d18b8ae83e">Bearers of the Black Staff (Legends of Shannara)</a>
+amazon_cover_text: |
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=floridan21-20&marketplace=amazon&amp;region=US&placement=0345484177&asins=0345484177&linkId=d940a3dfb49e301deac74b38616e3f4d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+amazon: "https://www.amazon.com/gp/product/0345484177/ref=as_li_tl?ie=UTF8&tag=floridan21-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345484177&linkId=3f2069752036b633287d9ea98f71c1cb"
 web: "https://www.goodreads.com/book/show/7302794-bearers-of-the-black-staff"
 intro: |
   For more than three decades, New York Times bestselling author Terry Brooks has ruled the epic fantasy realm with his legendary Shannara series. With each new novel the mythos has deepened, ever more fascinating characters have arisen, and increasingly breathtaking vistas of magical adventure have emerged. Now the evolution of one of imaginative fiction’s most beloved worlds continues in the first book of the new series Legends of Shannara: Bearers of the Black Staff.

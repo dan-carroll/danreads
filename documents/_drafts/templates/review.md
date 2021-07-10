@@ -19,6 +19,11 @@ format:
 number_pages: 
 cover_image: /assets/img/covers/
 image_alt: 
+ISBN: 
+ASIN: 
+amazon_cover: 
+amazon_text: 
+amazon_cover_text: 
 amazon: 
 web: 
 intro: 

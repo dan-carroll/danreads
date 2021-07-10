@@ -20,6 +20,11 @@ description: Lyrical, imaginative, and wholly original, this New York Times best
 number_pages: 499
 cover_image: /assets/img/covers/Seraphina2.jpg
 image_alt: Seraphina fantasy book cover
+ISBN: 
+ASIN: 
+amazon_cover: 
+amazon_text: 
+amazon_cover_text: 
 amazon: "https://www.amazon.com/gp/product/0375866221?ref_=dbs_m_mng_rwt_calw_tpbk_0&storeType=ebooks"
 web: 
 intro: 

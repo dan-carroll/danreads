@@ -19,7 +19,15 @@ format: hardcover
 number_pages: 290
 cover_image: /assets/img/covers/pegasus_in_flight.jpg
 image_alt: Cover for Pegasus In Flight
-amazon: "https://www.amazon.com/Pegasus-Flight-Anne-McCaffrey/dp/0345368967/ref=tmm_hrd_swatch_0"
+ISBN: 0345368967
+ASIN: 
+amazon_cover: |
+  <a target="_blank"  href="https://www.amazon.com/gp/product/0345368967/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345368967&linkCode=as2&tag=floridan21-20&linkId=870a673005c62211e0d9f25be913230e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0345368967&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=floridan21-20" ></a>
+amazon_text: |
+  <a target="_blank" href="https://www.amazon.com/gp/product/0345368967/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345368967&linkCode=as2&tag=floridan21-20&linkId=be8c3b27d43887cd3d05dc3fce4a53bb">Pegasus in Flight</a>
+amazon_cover_text: |
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=floridan21-20&marketplace=amazon&amp;region=US&placement=0345368967&asins=0345368967&linkId=6ca0a500da9b912f9667c232a15640f9&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+amazon: "https://www.amazon.com/gp/product/0345368967/ref=as_li_tl?ie=UTF8&tag=floridan21-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345368967&linkId=226b905f54a52c11f4c2f32cafcc8fa3"
 web: "https://www.goodreads.com/book/show/1617541.Pegasus_In_Flight"
 intro: "As director of the Jerhattan Parapsychic Center, telepath Rhyssa Owen coordinated the job assignments for psychically gifted Talents. And though she had her hands full dealing with the unreasonable demand for kinetics to work on the space platform that would be humankind's stepping-stone to the stars, she was always ready to welcome new Talents to the Center.
 

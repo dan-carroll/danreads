@@ -1,3 +1,6 @@
+- name: Armegeddon
+  slug: armegeddon
+
 - name: Audio
   slug: audio
 
@@ -9,12 +12,21 @@
 
 - name: Crime Fiction
   slug: crime_fiction
-  
+
+- name: Demons
+  slug: demons
+
 - name: Dragon
   slug: dragon
 
+- name: Elves
+  slug: elves
+
 - name: ESP
   slug: esp
+
+- name: Faerie
+  slug: faerie
   
 - name: Fairy Tale
   slug: fairytale

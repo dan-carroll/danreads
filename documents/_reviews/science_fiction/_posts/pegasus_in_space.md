@@ -11,7 +11,7 @@ type: review
 sub_type: science_fiction
 author: Anne McCaffrey
 author_page: anne_mccaffrey
-publisher: The Ballantine Publishing Group
+publisher: Del Rey
 copyright: 2000
 description: "In a triumphant career spanning more than thirty years, Anne McCaffrey has won the acclaim of critics, the devotion of millions of fans, and awards too numerous to mention. Her bestselling Dragonriders of Pern® series is counted among the masterpieces of modern science fiction, a work whose popularity continues to grow as new generations of readers discover the literary magic only Anne McCaffrey can provide. Now that magic is back, displayed as breathtakingly as ever in the exciting and long-awaited addition to McCaffrey's classic Pegasus series—and the perfect link to her bestselling Tower and Hive saga . . ."
 genre: science_fiction
@@ -19,7 +19,15 @@ format: hardback
 number_pages: 373
 cover_image: /assets/img/covers/pegasus_in_space.jpg
 image_alt: Cover for Pegasus In Space
-amazon: "https://www.amazon.com/Pegasus-Space-Talents-Saga-Book-ebook/dp/B003JBI43W/ref=sr_1_1"
+ISBN: 0345434668
+ASIN: 
+amazon_cover: |
+  <a target="_blank"  href="https://www.amazon.com/gp/product/0345434668/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345434668&linkCode=as2&tag=floridan21-20&linkId=55250b8656b334922ad82b5917f31c12"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0345434668&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=floridan21-20" ></a>
+amazon_text: |
+  <a target="_blank" href="https://www.amazon.com/gp/product/0345434668/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345434668&linkCode=as2&tag=floridan21-20&linkId=55ea7053d4f18a94c3e9f56bed225acb">Pegasus in Space</a>
+amazon_cover_text: |
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=floridan21-20&marketplace=amazon&amp;region=US&placement=0345434668&asins=0345434668&linkId=c7c44f14908e5913faf39bd366da7cc4&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+amazon: "https://www.amazon.com/gp/product/0345434668/ref=as_li_tl?ie=UTF8&tag=floridan21-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345434668&linkId=7490a06a153e42319019f659259c9160"
 web: "https://www.goodreads.com/book/show/61931.Pegasus_in_Space"
 intro: "For an overpopulated Earth whose resources are strained to the breaking point, there is only one place to look for relief: straight up. With the successful completion of the Padrugoi Space Station, humanity has at last achieved its first large-scale permanent presence in space. Additional bases are feverishly being built on the Moon and on Mars, stepping stones to the greatest adventure in all history: the colonization of alien worlds. Already long-range telescopes have identified a number of habitable planets orbiting the stars of distant galaxies. Now it's just a question of getting there.
 
