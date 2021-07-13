@@ -11,13 +11,18 @@ updated:
 author: Dan Carroll - Florida
 published: true
 tags: [fantasy, magic, demons, elves, faerie, armegeddon]
+description: "The Gypsy Morph is an epic saga of a world in flux as the mortal realm yields to a magical one; as the champions of the Word and the Void clash for the last time to decide what will be and what must cease; and as, from the remnants of a doomed age, something altogether extraordinary rises."
 type: review
 sub_type: fantasy
 author: Terry Brooks
 author_page: terry_brooks
 publisher: Del Rey
 copyright: 2008
-description: The Gypsy Morph is an epic saga of a world in flux as the mortal realm yields to a magical one; as the champions of the Word and the Void clash for the last time to decide what will be and what must cease; and as, from the remnants of a doomed age, something altogether extraordinary rises.
+summary: |
+  Eighty years into the future, the United States is a no-man's-land: its landscape blighted by chemical warfare, pollution, and plague; its government collapsed, its citizens adrift, desperate, and fighting to stay alive. Survivors in fortified compounds hold the line against wandering predators, rogue militias, and hideous mutations spawned by the toxic atmosphere. And against them all stands an enemy neither mortal nor merciful: demons and their minions, bent on slaughtering and subjugating the last of humankind.
+
+
+  But from around the country, allies of good have been summoned to challenge the rampaging evil. Logan Tom, wielding the magic staff of a Knight of the Word, has a promise to keep - protecting the world's only hope of salvation - and a score to settle, with the demon that massacred his family. Angel Perez, Logan's fellow Knight, has risked her life to aid the elvish race, whose peaceful, hidden realm is marked for extermination by the forces of the Void. Kirisin Belloruus, a young elf entrusted with an ancient magic, must deliver his entire civilization from a monstrous army. And Hawk, the rootless boy who is nothing less than destiny's instrument, must lead the last of humanity to a latter-day promised land before the final darkness falls.
 genre: fantasy
 format: hardcover
 number_pages: 402

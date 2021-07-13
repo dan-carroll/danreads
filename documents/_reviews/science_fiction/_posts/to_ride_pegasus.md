@@ -7,18 +7,20 @@ permalink: /reviews/science_fiction/to_ride_pegasus.html
 date: 2021-06-24
 updated: 
 tags: [talents, ESP, science_fiction]
+description: "They were four extraordinary women who read minds, healed bodies, diverted disasters, foretold the future--and became pariahs in their own land. A talented, elite cadre, they stepped out of the everyday human race...to enter their own!"
 type: review
 sub_type: science_fiction
 author: Anne McCaffrey
 author_page: anne_mccaffrey
 publisher: Ballantine Books
 copyright: 1973
-description: "They were four extraordinary women who read minds, healed bodies, diverted disasters, foretold the future--and became pariahs in their own land. A talented, elite cadre, they stepped out of the everyday human race...to enter their own!"
 genre: science_fiction
 format: hardback
 number_pages: 232
 cover_image: /assets/img/covers/to_ride_pegasus2.jpg
 image_alt: Cover image for To Ride Pegasus
+summary: |
+  They were called Talents – people with extrasensory abilities including reading minds, predicting the future, and healing. But though their gifts were useful and powerful, they were not happy. Often afraid of their own "inexplicable" powers, they lived on the margins – until Henry Darrow dreamed up the Parapsychic Center and started making a place for the Talents. It wasn't very long before they had a mission – and enemies.
 ISBN: 0345369971
 ASIN: 
 amazon_cover: |

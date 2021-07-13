@@ -6,18 +6,19 @@ series_num: 1
 world_series: Shannara
 world_num: 7
 permalink: /reviews/fantasy/bearers_of_the_black_staff.html
-date: 2021-07-08
+date: 2021-07-11
 updated: 
 author: Dan Carroll - Florida
 published: true
 tags: [fantasy, magic, elves, trolls, demons]
+description: "Five hundred years have passed since the devastating demon-led war tore apart the United States and nearly exterminated humankind. Those who escaped the carnage were led to sanctuary in an idyllic valley, its borders warded by powerful magic against the horrors beyond. But the cocoon of protective magic surrounding the valley has now vanished."
 type: review
 sub_type: fantasy
 author: Terry Brooks
 author_page: terry_brooks
 publisher: Del Rey
 copyright: 2010
-description: "Five hundred years have passed since the devastating demon-led war tore apart the United States and nearly exterminated humankind. Those who escaped the carnage were led to sanctuary in an idyllic valley, its borders warded by powerful magic against the horrors beyond. But the cocoon of protective magic surrounding the valley has now vanished."
+summary: "Five hundred years have passed since the devastating demon-led war that almost exterminated humankind. Those who escaped the carnage were led to sanctuary by the boy saviour known as Hawk: the gypsy morph. But now, the unimaginable has come to pass: the cocoon of protective magic surrounding the valley has vanished. When Sider Ament, last surviving Knight of the Word, detects unknown predators stalking the valley, and Trackers from the human village of Glensk Wood find two of their own gruesomely killed, there can be no doubt: the once safe haven of generations has been laid bare. Together, the young Trackers, the aging Knight and a daring Elf princess race to spread word of the encroaching danger. But suspicion and hostility among their countrymen threaten to doom their efforts from within, while beyond the breached borders, a ruthless Troll army masses for invasion. Standing firm between the two, the last wielder of the black staff and its awesome magic must find a successor to carry on the fight against the cresting new wave of evil."
 genre: fantasy
 format: hardcover
 number_pages: 353
@@ -46,4 +47,6 @@ intro: |
   Together, Ament, the two young Trackers, and a daring Elf princess race to spread word of the encroaching danger—and spearhead plans to defend their ancestral home. But suspicion and hostility among their countrymen threaten to doom their efforts from within—while beyond the breached borders, a ruthless Troll army masses for invasion. And in the thick of it all, the last wielder of the black staff and its awesome magic must find a successor to carry on the fight against the cresting new wave of evil.
 ---
 
+I felt I was left hanging after the events of [The Gypsy Morph](/reviews/fantasy/the_gypsy_morph.html). Now we get to see how the group who made it to the relative safety of their mountain valley have fared; five hundred years later.
 
+New characters, new story, and new adventures. Not to mention intrigue. No spoilers here (except for the jacket text above). Get the book and get ready for another great read.

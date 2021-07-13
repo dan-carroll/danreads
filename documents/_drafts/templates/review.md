@@ -1,4 +1,4 @@
->---
+---
 layout: review
 title: 
 series: 
@@ -6,6 +6,8 @@ series_num:
 permalink: 
 date: 
 updated: 
+published: false
+description: 
 tags: 
 type: 
 sub_type: 
@@ -13,7 +15,7 @@ author:
 author_page: 
 publisher: 
 copyright: 
-description: 
+summary: 
 genre: 
 format: 
 number_pages: 
@@ -27,6 +29,6 @@ amazon_cover_text:
 amazon: 
 web: 
 intro: 
->---
+---
 
 

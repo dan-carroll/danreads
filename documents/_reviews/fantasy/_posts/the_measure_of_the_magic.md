@@ -6,7 +6,8 @@ series_num: 2
 world_series: Shannara
 world_num: 8
 permalink: /reviews/fantasy/the_measure_of_the_magic.html
-date: 2021-07-08
+description: "For 500 years, the survivors of the Great Wars lived peacefully in a valley sanctuary shielded by powerful magic from the blighted and dangerous outside world. But the enchanted barriers have crumbled, the borders have been breached by predators, and the threat of annihilation looms large once more."
+date: 2021-07-11
 updated: 
 published: true
 tags: [fantasy, magic, elves, trolls, demons]
@@ -16,7 +17,7 @@ author: Terry Brooks
 author_page: terry_brooks
 publisher: Del Rey Books
 copyright: 2011
-description: "For five hundred years, the survivors of the Great Wars lived peacefully in a valley sanctuary shielded by powerful magic from the dangerous outside world. But the enchanted barriers have crumbled, and the threat of annihilation looms large once more."
+summary: "For five hundred years, the survivors of the Great Wars lived peacefully in a valley sanctuary shielded by powerful magic from the dangerous outside world. But the enchanted barriers have crumbled, and the threat of annihilation looms large once more. As he lay dying, Sider Ament, bearer of the last black staff and protector of the valley, gave stewardship of the powerful talisman to the young Tracker Panterra Qu. Now the newly anointed Knight of the Word must take up the battle against evil wherever it threatens: from without, where an army of bloodthirsty Trolls is massing for invasion; and from within, where the Elf king of Arborlon has been murdered, his daughter stands accused, and a heinous conspiracy is poised to subjugate the kingdom. But even these affairs will pale beside the most harrowing menace Panterra is destined to confront—a nameless, merciless agent of darkness on a relentless mission: to claim the last black staff . . . and the life of whoever wields it."
 genre: fantasy
 format: hardcover
 number_pages: 383
@@ -39,4 +40,6 @@ intro: |
   For five hundred years, the survivors of the Great Wars lived peacefully in a valley sanctuary shielded by powerful magic from the blighted and dangerous outside world. But the enchanted barriers have crumbled, the borders have been breached by predators, and the threat of annihilation looms large once more. Sider Ament, bearer of the last black staff and its profound power, devoted his life to protecting the valley and its inhabitants—and, in his final moments, gave stewardship of the black staff to the young tracker Panterra Qu. Now the newly anointed Knight of the Word must take up the battle against evil wherever it threatens: from without, where an army of bloodthirsty trolls is massing for invasion; and from within, where the Elf king of Arborlon has been murdered, his daughter, Princess Phryne Amarantyne, stands accused, and a heinous conspiracy is poised to subjugate the kingdom. But even these will pale beside the most harrowing menace Panterra is destined to confront—a nameless, merciless figure who wanders the devastated land on a relentless mission: to claim the last black staff . . . and the life of he who wields it.
 ---
 
+The story of the survivors from the *Shannara Genesis* series continues. The story becomes more intense. Grab a copy as quick as you can and be prepared for another can-not-put-it-down read.
 
+Terry Brooks has improved his adventure storytelling skills. Another great fantasy read from our *Shannara World* author.

@@ -7,17 +7,18 @@ world_series: Shannara
 world_num: 10
 permalink: /reviews/fantasy/the_sword_of_shannara.html
 date: 2021-07-03
-updated: 2021-07-07
+updated: 2021-07-11
 author: Dan Carroll - Florida
-published: false
+published: true
 tags: [fantasy, magic, elves, demons]
+description: "Long ago, the wars of the ancient Evil ruined the world. In peaceful Shady Vale, half-elfin Shea Ohmsford knows little of such troubles. But the supposedly dead Warlock Lord is plotting to destroy everything in his wake. The sole weapon against this Power of Darkness is the Sword of Shannara, which can be used only by a true heir of Shannara. On Shea, last of the bloodline, rests the hope of all the races."
 type: review
 sub_type: fantasy
 author: Terry Brooks
 author_page: terry_brooks
 publisher: Del Rey
 copyright: 1977
-description: "Long ago, the wars of the ancient Evil ruined the world. In peaceful Shady Vale, half-elfin Shea Ohmsford knows little of such troubles. But the supposedly dead Warlock Lord is plotting to destroy everything in his wake.The sole weapon against this Power of Darkness is the Sword of Shannara, which can be used only by a true heir of Shannara. On Shea, last of the bloodline,rests the hope of all the races."
+summary: "Living in peaceful Shady Vale, Shea Ohmsford knew little of the troubles that plagued the rest of the world. Then the giant, forbidding Allanon revealed that the supposedly dead Warlock Lord was plotting to destroy the world. The sole weapon against this Power of Darkness was the Sword of Shannara, which could only be used by a true heir of Shannara–Shea being the last of the bloodline, upon whom all hope rested. Soon a Skull Bearer, dread minion of Evil, flew into the Vale, seeking to destroy Shea. To save the Vale, Shea fled, drawing the Skull Bearer after him...."
 genre: fantasy
 format: hardback
 number_pages: 726
@@ -34,9 +35,13 @@ amazon_cover_text: |
     </iframe>
 amazon: "https://www.amazon.com/gp/product/081244826X/ref=as_li_tl?ie=UTF8&tag=floridan21-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=081244826X&linkId=a40dcddddc4bf47d6ccbebe5ff15530e"
 web: "https://www.goodreads.com/book/show/15575.The_Sword_of_Shannara"
-intro: 
+intro: |
+  Long ago, the world of the Four Lands was torn apart by the wars of ancient Evil. But in the Vale, the half-human, half-elfin Shea Ohmsford now lives in peace - until the mysterious, forbidding figure of the druid Allanon appears, to reveal that the supposedly long dead Warlock Lord lives again.
+
+
+  Shea must embark upon the elemental quest to find the only weapon powerful enough to keep the creatures of darkness at bay: the fabled Sword of Shannara.
 ---
 
 A great first novel by author *Terry Brooks*. An excellent story with easily identifiable characters. This book is long enough to tell the story but nowhere near as long as some tomes in the Fantasy genre.
 
-I enjoyed this book so much I had to reread it again a few years later. Now I need to reread the whole trilogy again. I have been "woke" by what I discovered in the Netflix series "*The Shannara Chronicles*". These stories occur in a future version of our own earth, not in some fairytale land.
+I enjoyed this book so much I had to reread it again a few years later. Now I need to reread the whole trilogy again. I have been "woke" by what I discovered in the Netflix series "*The Shannara Chronicles*". These stories occur in a future version of our own earth, not in some fairytale land. Wow!

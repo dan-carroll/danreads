@@ -6,14 +6,20 @@ series_num: 2
 permalink: /reviews/science_fiction/pegasus_in_flight.html
 date: 2021-06-25
 updated: 
+published: true
 tags: [talents, ESP, science_fiction, youth]
+description: "Earth was at bursting point, in spite of the birth restrictions of only one child to each couple. Extra children existed in a sub-cultured world or were rounded up into slavery. The only hope was the space platform — the jumping-off point for the colonization of other worlds. But more Talents were needed to build and operate those platforms."
 type: review
 sub_type: science_fiction
 author: Anne McCaffrey
 author_page: anne_mccaffrey
 publisher: Ballantine Books
 copyright: 1990
-description: "Earth was at bursting point, in spite of the birth restrictions of only one child to each couple. Extra children existed in a sub-cultured world or were rounded up into slavery. The only hope was the space platform — the jumping-off point for the colonization of other worlds. But more Talents were needed to build and operate those platforms. Rhyssa Owen was the one responsible, both for finding Talents and training them. And when she felt the first encroachment of a mind reaching out to her, she knew it was exceptional — a fourteen-year-old boy with incredibly powerful kinetic ability. And in the seamy underworld of near-criminal children was another brilliant mind in danger from a ruthless group of child kidnappers. Rhyssa knew she had to find the two children and train them for the survival of earth."
+summary: |
+  Earth has reached its darkest moment. In subterranean warrens, the poor eke out precarious lives where jobs are scarce and children are sold for labor—while on the surface, a privileged few enjoy lives of luxury. As the population surges and unrest spreads, a disaster of epic proportions seems inescapable. The only hope: a platform under construction in space from which starships will be launched to colonize distant planets. But the project is critically behind schedule.
+
+
+  In the midst of the chaos, Rhyssa Owen and her fellow Talents—telepaths who read minds, kinetics who manipulate matter, and precogs to whom the future is an open book—struggle to survive. Then two children are discovered whose extraordinary psychic gifts have the potential to avert the looming catastrophe—or hasten its ominous arrival. . . .
 genre: science_fiction
 format: hardcover
 number_pages: 290

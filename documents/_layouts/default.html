@@ -11,7 +11,8 @@
 	
     <title>{{ page.title }} - {{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-   
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+	
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -104,6 +105,9 @@
 			{% endif %}
 			  </a>
             </li>
+			<li class="nav-item">
+			  <a class="nav-link" href="{{ site.url }}/feed.xml">RSS</a>
+			</li>
           </ul>
         </div>
 		
@@ -118,6 +122,13 @@
     </div>
 	<footer class="bg-secondary pt-3">
 	  <div class="container bg-secondary">
+	    <div class="row">
+		  <div class="col col-md-7 mx-auto">
+		    <p class="text-white px-3">
+			  Dan Carroll is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+			</p>
+		  </div>
+		</div>
 	    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
 		  <div class="col p-3">
 			<div class="card bg-secondary text-white h-100">

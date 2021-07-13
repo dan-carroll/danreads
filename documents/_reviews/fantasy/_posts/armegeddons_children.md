@@ -11,13 +11,14 @@ updated:
 author: Dan Carroll - Florida
 published: true
 tags: [fantasy, magic, demons, armegeddon]
+description: "In our world’s near future, civilization has fallen into terrifying chaos. Navigating the scarred landscape that once was America and guided by a powerful talisman, Logan Tom has sworn an oath to seek out a remarkable being born of magic and destined to lead the final fight against darkness. In time, Logan’s path will cross with others: Angel Perez, herself a survivor of death-dealing forces, and a makeshift family of refugees forced to survive among street gangs, mutants, and marauders. Common purpose will draw Logan and his allies together. Their courage and convictions will be tested and their fates will be decided, as their singular crusade begins: to take back, or lose forever, the only world they have."
 type: review
 sub_type: fantasy
 author: Terry Brooks
 author_page: terry_brooks
 publisher: Del Rey
 copyright: 2006
-description: "In our world’s near future, civilization has fallen into terrifying chaos. Navigating the scarred landscape that once was America and guided by a powerful talisman, Logan Tom has sworn an oath to seek out a remarkable being born of magic and destined to lead the final fight against darkness. In time, Logan’s path will cross with others: Angel Perez, herself a survivor of death-dealing forces, and a makeshift family of refugees forced to survive among street gangs, mutants, and marauders. Common purpose will draw Logan and his allies together. Their courage and convictions will be tested and their fates will be decided, as their singular crusade begins: to take back, or lose forever, the only world they have."
+summary: 
 genre: fantasy
 format: hardcover
 number_pages: 384

@@ -7,13 +7,14 @@ permalink: /reviews/science_fiction/pegasus_in_space.html
 date: 2021-06-25
 updated: 
 tags: [talents, ESP, science_fiction, youth]
+description: "Pegasus in Space follows directly, with mayhem and mutiny, at the opening of a manned space station, which Peter and talented friends helped build."
 type: review
 sub_type: science_fiction
 author: Anne McCaffrey
 author_page: anne_mccaffrey
 publisher: Del Rey
 copyright: 2000
-description: "In a triumphant career spanning more than thirty years, Anne McCaffrey has won the acclaim of critics, the devotion of millions of fans, and awards too numerous to mention. Her bestselling Dragonriders of Pern® series is counted among the masterpieces of modern science fiction, a work whose popularity continues to grow as new generations of readers discover the literary magic only Anne McCaffrey can provide. Now that magic is back, displayed as breathtakingly as ever in the exciting and long-awaited addition to McCaffrey's classic Pegasus series—and the perfect link to her bestselling Tower and Hive saga . . ."
+summary: "For an overpopulated Earth whose resources are strained to the breaking point, there is only one place to look for relief: straight up. With the successful completion of the Padrugoi Space Station, humanity has at last achieved its first large-scale permanent presence in space. But there are those who, for motives of their own, want Padrugoi to fail. Standing in their way are the Talented, men and women gifted with extraordinary mental powers that have made them as feared as they are respected--and utterly indispensable to the colonization effort. Now, as sabotage and attempted murder strike the Station, it's up to the Talented to save the day. Only who is going to save the Talented?"
 genre: science_fiction
 format: hardback
 number_pages: 373
