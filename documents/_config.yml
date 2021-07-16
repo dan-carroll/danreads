@@ -1,4 +1,4 @@
-url: "https://dmcarroll.net/books" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://danreads.dmcarroll.net" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
 email: dan@dmcarroll.net
