@@ -10,6 +10,9 @@
 - name: Chess
   slug: chess
 
+- name: Christian
+  slug: christian
+
 - name: Crime Fiction
   slug: crime_fiction
 
@@ -42,7 +45,10 @@
 
 - name: Magic
   slug: magic
-  
+
+- name: Martial Arts
+  slug: martial_arts
+
 - name: Medieval
   slug: medieval
 
@@ -64,9 +70,18 @@
 - name: Science Fiction
   slug: science_fiction
 
+- name: Soccer Mom
+  slug: soccer_mom
+
+- name: Sorcery
+  slug: sorcery
+
 - name: Suspense
   slug: suspense
-  
+
+- name: Sword
+  slug: sword
+
 - name: Talents
   slug: talents
 
@@ -90,4 +105,6 @@
 
 - name: Youth
   slug: youth
-  
+
+- name: Zombies
+  slug: zombies
