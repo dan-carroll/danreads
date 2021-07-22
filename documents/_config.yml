@@ -27,6 +27,10 @@ defaults:
     values:
       image: true
 
+exclude:
+  - *.sh
+  - test.html
+
 collections:
   tags:
     output: true
