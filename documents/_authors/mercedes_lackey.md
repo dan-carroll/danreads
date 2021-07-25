@@ -4,7 +4,7 @@ title: Mercedes Lackey
 permalink: /authors/mercedes_lackey.html
 date: 2021-06-07
 updated: 
-tags: [author, science-fiction]
+tags: [author, science_fiction, fantasy]
 tagline: Fantasy story-teller extraordinaire.
 author: Dan Carroll - Florida
 summary: 

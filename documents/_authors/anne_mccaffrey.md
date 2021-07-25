@@ -4,7 +4,7 @@ title: Anne McCaffrey
 permalink: /authors/anne_mccaffrey.html
 date: 2021-06-07
 updated: 
-tags: [author, science-fiction]
+tags: [author, science_fiction, fantasy, youth]
 tagline: The Queen of Science Fiction.
 summary: 
 name: Anne McCaffrey

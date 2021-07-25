@@ -19,7 +19,7 @@ facebook:
 web: "https://www.simonandschuster.com/authors/John-Ringo/1875432"
 bio: 
 facebook: 
-factoid: 
+factoid: "A veteran of the 82nd Airborne, Ringo brings military characters and their explosive battles to vivid, three-dimensional life."
 quote: 
 quote_about: 
 intro: "John Ringo is a prolific author who has written in a wide variety of genres. His early life included a great deal of travel. He visited 23 foreign countries, and attended fourteen different schools. After graduation Ringo enlisted in the US military for four years, after which he studied marine biology.

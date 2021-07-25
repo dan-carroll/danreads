@@ -4,7 +4,7 @@ title: Andre Norton
 permalink: /authors/andre_norton.html
 date: 2021-06-07
 updated: 2021-06-29
-tags: [author, science-fiction, fantasy, youth]
+tags: [author, science_fiction, fantasy, youth]
 tagline: The Grande Damme of Science Fiction!
 author: Dan Carroll - Florida
 summary: 

@@ -1,7 +1,7 @@
 ---
 layout: default
-tag-name: magic
-permalink: /tags/magic.html
+tag-name: aliens
+permalink: /tags/aliens.html
 ---
 
 {% include tag-articles.html %}

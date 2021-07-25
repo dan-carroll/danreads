@@ -28,7 +28,7 @@ defaults:
       image: true
 
 exclude:
-  - *.sh
+  - "*.sh"
   - test.html
 
 collections:

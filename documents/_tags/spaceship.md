@@ -1,7 +1,7 @@
 ---
 layout: default
-tag-name: magic
-permalink: /tags/magic.html
+tag-name: spaceship
+permalink: /tags/spaceship.html
 ---
 
 {% include tag-articles.html %}

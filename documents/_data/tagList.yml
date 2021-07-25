@@ -1,3 +1,6 @@
+- name: Aliens
+  slug: aliens
+
 - name: Armegeddon
   slug: armegeddon
 
@@ -39,7 +42,10 @@
 
 - name: Folk Tale
   slug: folktale
-  
+
+- name: Gateways
+  slug: gateways
+
 - name: Historical
   slug: historical
 
@@ -75,6 +81,9 @@
 
 - name: Sorcery
   slug: sorcery
+
+- name: Spaceship
+  slug: spaceship
 
 - name: Suspense
   slug: suspense
