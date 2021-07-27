@@ -1,3 +1,9 @@
+- name: Action
+  slug: action
+
+- name: Adventure
+  slug: adventure
+
 - name: Aliens
   slug: aliens
 
@@ -58,9 +64,12 @@
 - name: Medieval
   slug: medieval
 
+- name: Military
+  slug: military
+
 - name: Military Fiction
   slug: military_fiction
-  
+
 - name: Movie
   slug: movie
 
@@ -99,6 +108,9 @@
   
 - name: Video
   slug: video
+
+- name: War
+  slug: war
 
 - name: Web
   slug: web

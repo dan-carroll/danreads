@@ -9,7 +9,7 @@ updated:
 author: Dan Carroll - Florida
 published: true
 description: "The experiment opened a gateway to the stars-and Hell's own spawn was on the other side. Science fiction adventure by the author of the New York Times best sellers When the Devil Dances and Hell's Faire."
-tags: [aliens, gateways, science_fiction, military_fiction]
+tags: [action, adventure, aliens, gateways, science_fiction, military, military_fiction]
 type: review
 sub_type: science_fiction
 genre: science_fiction

@@ -9,7 +9,7 @@ updated:
 author: Dan Carroll - Florida
 published: true
 description: "Humankind’s only interstellar craft, the Vorpal Blade is dispatched to investigate an ancient civilization that may have left vital technology behind. But when the crew finds more than they bargained for, they’ll have to scramble to survive."
-tags: [aliens, gateways, science_fiction, military_fiction, spaceship]
+tags: [action, adventure, aliens, gateways, science_fiction, military, military_fiction, spaceship]
 type: review
 sub_type: science_fiction
 genre: science_fiction

@@ -9,7 +9,7 @@ updated:
 author: Dan Carroll - Florida
 published: true
 description: "TO THE STARS—WITH GUNS AND DUCT TAPE"
-tags: [aliens, gateways, science_fiction, military_fiction, spaceship]
+tags: [action, adventure, aliens, gateways, science_fiction, military, military_fiction, spaceship]
 type: review
 sub_type: science_fiction
 genre: science_fiction

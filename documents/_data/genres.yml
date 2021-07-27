@@ -63,7 +63,13 @@
   image: "/assets/img/math/maths.png"
   image_alt: "Math image"
   index_url: "/reviews/math/"
-  
+
+- genre: military_fiction
+  name: Military Fiction
+  image: "/assets/img/military_fiction/tank.png"
+  image_alt: "Military Fiction image"
+  index_url: /reviews/military_fiction
+
 - genre: politics
   name: Politics
   image: "/assets/img/politics/politics.png"
