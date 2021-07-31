@@ -52,4 +52,8 @@ intro: |
   Now Wolf Squadron must take on another massive challenge: clear the assault carrier *USS Iwo Jima* of infected before the trapped Marines and sailors succumb to starvation. If Wolf Squadron can accomplish that task, an even tougher trial waits: an apocalyptic battle to win a new dawn for humanity. The war for civilization begins as the boats of the Wolf Squadron become a beacon of hope on a Darkling Sea.
 ---
 
+Zombies are one thing but surviving is paramount. This book is a handbook for surviving an apocalypse while collecting survivors and supplies. And it is extremely entertaining.
 
+John Ringo has done it again. Created a highly entertaining story that is hard to put down. And he has down it with believable characters, situations, and adventure with plenty of action. 
+
+The breakout surprise here is our heroes teenage daughters who steal the show. You will love these characters. 'Nuff said. No spoilers.
