@@ -3,7 +3,7 @@ layout: review
 title: Tiger by the Tail
 series: Paladin of Shadows
 series_num: 6
-permalink: tiger_by_the_tail
+permalink: /reviews/military_fiction/tiger_by_the_tail.html
 date: 2021-07-29
 updated: 
 author: Dan Carroll - Florida

@@ -7,6 +7,9 @@
 - name: Aliens
   slug: aliens
 
+- name: Apocalyptic
+  slug: apocalyptic
+
 - name: Armegeddon
   slug: armegeddon
 
@@ -54,6 +57,9 @@
 
 - name: Historical
   slug: historical
+
+- name: Horror
+  slug: horror
 
 - name: Magic
   slug: magic
