@@ -4,7 +4,7 @@ title: Seraphina
 series: Seraphina
 series_num: 1
 permalink: "/reviews/fantasy/seraphina.html"
-date: 2021-07-10
+date: 2021-08-02
 updated: 
 published: false
 tags: [dragon, medieval, fantasy]
@@ -48,4 +48,14 @@ intro: |
   In her exquisitely written fantasy debut, Rachel Hartman creates a rich, complex, and utterly original world. Seraphina's tortuous journey to self-acceptance is one readers will remember long after they've turned the final page.
 ---
 
-Currently enjoying this book.
+This is a totally different dragon story. Dragons here can take on human form and mate and reproduce with humans. Opportunities abound for story lines from this premise alone.
+
+Include the fact that half-dragons can pass for human, that they must remain in secret or be destroyed by either species, and that they may have varying "talents" because of their hybrid genetics. Now possible story lines increase in number.
+
+And the fact that humans and dragons have been at war with each other in the past, but are now at the 20 year mark in a negotiated peace. Rachel Hartman has provided a multi-faceted world in which to give us her stories.
+
+This story starts off a bit slow. I would put this down to the author's need to provide readers with enough background to understand some of the nuances of this world. And the underlying currents provide additional intrigue and thrills for us.
+
+I could go on in more detail but I would not want to provide too many spoilers. Those interested in dragon stories won't be disappointed. This one is definitely different from any other dragon story I have ever read. The characters are well developed, the story line intriguing, and enough action to make it interesting.
+
+Definitely worth a read.
