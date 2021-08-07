@@ -3,7 +3,7 @@ layout: review
 title: Black Tide Rising
 series: Black Tide Rising
 series_num: 4.5
-permalink: black_tide_rising
+permalink: /reviews/horror/black_tide_rising.html
 date: 2021-07-05
 updated: 
 author: Dan Carroll - Florida

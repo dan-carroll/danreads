@@ -3,7 +3,7 @@ layout: review
 title: Strands of Sorrow
 series: Black Tide Rising
 series_num: 4
-permalink: /reviews/horror/strands_of_sorrow
+permalink: /reviews/horror/strands_of_sorrow.html
 date: 2021-07-04
 updated: 
 author: Dan Carroll - Florida

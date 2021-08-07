@@ -3,10 +3,10 @@ layout: review
 title: Seraphina
 series: Seraphina
 series_num: 1
-permalink: "/reviews/fantasy/seraphina.html"
+permalink: /reviews/fantasy/seraphina.html
 date: 2021-08-02
 updated: 
-published: false
+published: true
 tags: [dragon, medieval, fantasy]
 description: "Lyrical, imaginative, and wholly original, this New York Times bestseller with 8 starred reviews is not to be missed.  Rachel Hartman’s award-winning debut will have you looking at dragons as you’ve never imagined them before…"
 type: review

@@ -88,6 +88,12 @@
 - name: News
   slug: news
 
+- name: Pioneer
+  slug: pioneer
+
+- name: Piracy
+  slug: piracy
+
 - name: Science Fiction
   slug: science_fiction
 
