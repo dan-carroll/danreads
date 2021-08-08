@@ -6,7 +6,7 @@ series_num: 4.5
 permalink: /reviews/horror/black_tide_rising.html
 date: 2021-07-05
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: false
 description: 
 tags: [apocalyptic, horror, zombies, military_fiction, science_fiction]

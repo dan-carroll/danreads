@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 5
 permalink: /reviews/western/ride_the_river.html
 date: 2021-08-07
+review_date: 2021-08-07
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: false
 description: "In Ride the River, Louis L’Amour spins the tale of a young woman who has to protect her family fortune from a murderous thief and teach him what it means to be a Sackett."
-tags: [historical, western, pioneer, frontier]
+tags: [historical, western, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western

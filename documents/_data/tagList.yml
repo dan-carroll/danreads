@@ -18,7 +18,13 @@
 
 - name: Author
   slug: author
-  
+
+- name: Beast
+  slug: beast
+
+- name: Beauty
+  slug: beauty
+
 - name: Chess
   slug: chess
 
@@ -57,6 +63,9 @@
 
 - name: Historical
   slug: historical
+
+- name: Historical Fiction
+  slug: historical_fiction
 
 - name: Horror
   slug: horror

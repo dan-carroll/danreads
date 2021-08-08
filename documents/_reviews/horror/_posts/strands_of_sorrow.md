@@ -6,7 +6,7 @@ series_num: 4
 permalink: /reviews/horror/strands_of_sorrow.html
 date: 2021-07-04
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: true
 description: "A hardened group of survivors fights back against a zombie plague that has brought down civilization."
 tags: [apocalyptic, horror, zombies, military_fiction, science_fiction]

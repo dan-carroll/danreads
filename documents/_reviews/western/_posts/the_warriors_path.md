@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 3
 permalink: /reviews/western/the_warriors_path.html
 date: 2021-08-05
+review_date: 2021-08-08
 updated: 
-author: Dan Carroll - Florida
-published: false
+page_author: Dan Carroll - Florida
+published: true
 description: "In The Warrior’s Path, Louis L’Amour tells the story of Yance and Kin Sackett, two brothers who are the last hope of a young woman who faces a fate worse than death."
-tags: [historical, western, piracy, pioneer, frontier]
+tags: [historical, western, piracy, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western
@@ -40,4 +41,10 @@ intro: |
   To bring the culprit to justice, one brother must sail to the exotic West Indies. There, among pirates, cutthroats, and ruthless “businessmen,” he will apply the skills he learned as a frontiersman to an unfamiliar world—a world where one false move means instant death.
 ---
 
+Another great read. Interesting story. From the Carolina/Tennessee mountains to New England to the Carribean–in the early 1600s.
 
+Plenty of detail for visualization but not too much to bore the reader with. I could visualize much of the areas traveled. Some of it familiar in varying degrees.
+
+Our heroes save some girls from kidnappers. Not only once, but twice. Plenty of action and adventure with some thrills and romance.
+
+Typical Western fair. The good guys win out in the end. The bad guys receive their just desserts. And another day dawns.

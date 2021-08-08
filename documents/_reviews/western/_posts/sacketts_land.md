@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 1
 permalink: /reviews/western/sacketts_land.html
 date: 2021-08-03
+review_date: 2021-08-05
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: true
 description: "Barnabas Sackett is declared an outlaw in his native England. He sets his daring sights on the opportunities of the New World."
-tags: [historical, western, piracy]
+tags: [historical, western, piracy, historical_fiction]
 type: review
 sub_type: western
 genre: western

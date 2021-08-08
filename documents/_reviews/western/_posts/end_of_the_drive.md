@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 6.5
 permalink: /reviews/western/end_of_the_drive.html
 date: 2021-08-09
+review_date: 2021-08-07
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: false
 description: "This treasure trove of stories captures the grit, grandeur, and the glory of the men and women who wielded pistol and plow, Bible and branding iron to tame a wild country."
-tags: [historical, western, pioneer, frontier]
+tags: [historical, western, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western

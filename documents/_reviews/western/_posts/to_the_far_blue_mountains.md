@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 2
 permalink: /reviews/western/to_the_far_blue_mountains.html
 date: 2021-08-04
+review_date: 2021-08-06
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: true
 description: "In To the Far Blue Mountains, Louis L’Amour weaves the unforgettable tale of a man who, after returning to his homeland, discovers that finding his way back to America may be impossible."
-tags: [historical, western, piracy, pioneer, frontier]
+tags: [historical, western, piracy, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western

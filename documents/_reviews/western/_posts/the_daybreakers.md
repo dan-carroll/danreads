@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 6
 permalink: /reviews/western/the_daybreakers.html
 date: 2021-08-08
+review_date: 2021-08-07
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: false
 description: "Orrin brought law and order from Santa Fe to Montana, and his brother Tye backed him up every step of the way. Till the day the job was done, Tye Sackett was the fastest gun alive."
-tags: [historical, western, pioneer, frontier]
+tags: [historical, western, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western

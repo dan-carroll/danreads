@@ -5,11 +5,12 @@ series: The Sacketts
 series_num: 4
 permalink: /reviews/western/jubal_sackett.html
 date: 2021-08-06
+review_date: 2021-08-06
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: true
 description: "In Jubal Sackett, the second generation of Louis L’Amour’s great American family pursues a destiny in the wilderness of a sprawling new land."
-tags: [historical, western, pioneer, frontier]
+tags: [historical, western, pioneer, frontier, historical_fiction]
 type: review
 sub_type: western
 genre: western
