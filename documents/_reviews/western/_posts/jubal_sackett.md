@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: true
 description: "In Jubal Sackett, the second generation of Louis L’Amour’s great American family pursues a destiny in the wilderness of a sprawling new land."
-tags: [historical, western, pioneer, frontier, historical_fiction]
+tags: [historical, western, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

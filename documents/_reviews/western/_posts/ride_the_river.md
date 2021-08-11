@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: "In Ride the River, Louis L’Amour spins the tale of a young woman who has to protect her family fortune from a murderous thief and teach him what it means to be a Sackett."
-tags: [historical, western, pioneer, frontier, historical_fiction]
+tags: [historical, western, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

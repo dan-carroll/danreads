@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: true
 description: "In The Warrior’s Path, Louis L’Amour tells the story of Yance and Kin Sackett, two brothers who are the last hope of a young woman who faces a fate worse than death."
-tags: [historical, western, piracy, pioneer, frontier, historical_fiction]
+tags: [historical, western, piracy, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

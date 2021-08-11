@@ -5,12 +5,12 @@ series: Elemental Masters
 series_num: 1
 permalink: /reviews/fantasy/the_serpents_shadow.html
 date: 2021-06-02
-review_date: 2021-08-07
+review_date: 2021-08-08
 updated: 
 page_author: Dan Carroll - Florida
-published: false
+published: true
 description: "The first novel in Mercedes Lackey's magical Elemental Masters series reimagines the fairy tale Snow White in a richly-detailed alternate Edwardian England. From the magical mysteries of India to the gaslit streets of Victorian London, Mercedes Lackey's unique departure from her Valdemar series follows a young woman doctor as she searches for the secret behind the sorcery in her blood."
-tags: [magic, fairytale, folktale, fantasy, historical_fiction]
+tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
 sub_type: fantasy
 genre: fantasy
@@ -71,4 +71,10 @@ intro: |
   But Maya knew that she could not hide forever from the vindictive power which had murdered her parents. She knew in her heart that even a vast ocean couldn’t protect her from “the serpent’s shadow” which had so terrified her mother. Her only hope was to find a way to master her own magic: the magic of her father’s blood.  But who would teach her? And could she learn enough to save her life by the time her relentless pursuers caught up with their prey?
 ---
 
+Mercedes Lackey's *Elemental Masters* series is a magical, alternative history based–loosely–on fairy tales, legends, or folk tales. *The Serpent's Shadow* is an alternate take on the *Snow White* fairy tale. A young British/Indian doctor instead of a princess whose parents are both sorcerers instead of royalty. And  are 7 .
 
+With her 7 companions–"pets" that were her mothers–she flees to England after both parents die from *mysterious* circumstances. On her death bed her mother warns her to beware of "the serpent's shadow".
+
+In London she works out how to make use of some of her magic while also working in a clinic for the poor. She needs help to learn more. And how to defend herself from the "evil" that has followed her here.
+
+Mercedes writes stories that are interesting and entertaining. Hope you all enjoy this one as much as I did.

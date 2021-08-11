@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: "Orrin brought law and order from Santa Fe to Montana, and his brother Tye backed him up every step of the way. Till the day the job was done, Tye Sackett was the fastest gun alive."
-tags: [historical, western, pioneer, frontier, historical_fiction]
+tags: [historical, western, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

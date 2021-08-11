@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: "Based loosely on the tale of Puss in Boots, Reserved for the Cat takes place in 1910 in an alternate London. A young dancer, penniless and desperate, is sure she is going mad when a cat begins talking to her mind-to-mind."
-tags: [magic, fairytale, folktale, fantasy, historical_fiction]
+tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
 sub_type: fantasy
 genre: fantasy

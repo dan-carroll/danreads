@@ -9,7 +9,7 @@ updated:
 author: Dan Carroll - Florida
 published: true
 description: "A family of survivors fight back against a zombie plague that has brought down civilization. NEW SF/HORROR SERIES FROM NEW YORK TIMES BEST SELLING AUTHOR!"
-tags: [apocalyptic, horror, zombies, military_fiction, science_fiction]
+tags: [apocalyptic, horror, zombies, military_fiction, science_fiction, john_ringo]
 type: review
 sub_type: horror
 genre: horror

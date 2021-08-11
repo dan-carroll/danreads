@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: true
 description: "Beauty meets Beast in 1905 San Francisco."
-tags: [beauty, beast, magic, fairytale, folktale, fantasy, historical_fiction]
+tags: [beauty, beast, magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
 sub_type: fantasy
 genre: fantasy

@@ -70,6 +70,12 @@
 - name: Horror
   slug: horror
 
+- name: John Ringo
+  slug: john_ringo
+
+- name: Louis L'Amour
+  slug: louis_lamour
+
 - name: Magic
   slug: magic
 
@@ -78,6 +84,9 @@
 
 - name: Medieval
   slug: medieval
+
+- name: Mercedes Lackey
+  slug: mercedes_lackey
 
 - name: Military
   slug: military

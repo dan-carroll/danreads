@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: true
 description: "In To the Far Blue Mountains, Louis L’Amour weaves the unforgettable tale of a man who, after returning to his homeland, discovers that finding his way back to America may be impossible."
-tags: [historical, western, piracy, pioneer, frontier, historical_fiction]
+tags: [historical, western, piracy, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

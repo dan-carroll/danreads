@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: "This treasure trove of stories captures the grit, grandeur, and the glory of the men and women who wielded pistol and plow, Bible and branding iron to tame a wild country."
-tags: [historical, western, pioneer, frontier, historical_fiction]
+tags: [historical, western, pioneer, frontier, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

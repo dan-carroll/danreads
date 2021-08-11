@@ -18,7 +18,8 @@ facebook: https://www.facebook.com/louislamourpage/
 web: http://www.louislamour.com/
 bio: http://www.louislamour.com/aboutlouis/biography.htm
 factoid: Before WWII Louis was mostly writing adventure and boxing stories...
-quote: There will come a time when you believe everything is finished. Yet that will be the beginning.
+quote: I think of myself in the oral tradition–as a troubadour, a village tale-teller, the man in the shadows of the campfire. That's the way I'd like to be remembered–as a storyteller. A good storyteller.
+quote2: There will come a time when you believe everything is finished. Yet that will be the beginning.
 quote_about: 
 intro: "More than just a writer of Westerns, Louis L'Amour was a grand story teller. I used to keep a folded note in my wallet with the title of each of his books I had read. I scoured bookstores and libraries looking for the odd one I hadn't read yet. I quit tallying these titles somewhere after 60+."
 ---

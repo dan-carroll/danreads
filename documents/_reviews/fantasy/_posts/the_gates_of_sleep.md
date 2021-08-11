@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: "The second novel in Mercedes Lackey's magical Elemental Masters series reimagines the fairy tale Sleeping Beauty in a richly-detailed alternate Victorian England."
-tags: [magic, fairytale, folktale, fantasy, historical_fiction]
+tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
 sub_type: fantasy
 genre: fantasy

@@ -4,11 +4,12 @@ title: Jolene
 series: Elemental Masters
 series_num: 15
 permalink: /reviews/fantasy/jolene.html
-date: 2021-06-24
+date: 2021-06-18
+review_date: 2021-06-24
 updated: 
 page_author: Dan Carroll - Florida
 published: true
-tags: [magic, fairytale, folktale, fantasy, historical_fiction]
+tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 description: "The beloved Elemental Masters series moves to America for the first time in a rich retelling of The Queen of the Copper Mountain, set against the backdrop of Tennessee coal country."
 type: review
 sub_type: fantasy

@@ -10,7 +10,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: true
 description: "Barnabas Sackett is declared an outlaw in his native England. He sets his daring sights on the opportunities of the New World."
-tags: [historical, western, piracy, historical_fiction]
+tags: [historical, western, piracy, historical_fiction, louis_lamour]
 type: review
 sub_type: western
 genre: western

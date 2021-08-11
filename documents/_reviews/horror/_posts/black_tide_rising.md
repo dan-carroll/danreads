@@ -9,7 +9,7 @@ updated:
 page_author: Dan Carroll - Florida
 published: false
 description: 
-tags: [apocalyptic, horror, zombies, military_fiction, science_fiction]
+tags: [apocalyptic, horror, zombies, military_fiction, science_fiction, john_ringo]
 type: review
 sub_type: horror
 genre: horror
