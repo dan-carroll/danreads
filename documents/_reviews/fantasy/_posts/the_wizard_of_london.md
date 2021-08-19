@@ -8,7 +8,7 @@ date: 2021-06-05
 review_date: 2021-08-07
 updated: 
 page_author: Dan Carroll - Florida
-published: false
+published: true
 description: "The fourth novel in Mercedes Lackey's magical Elemental Masters series reimagines the fairy tale The Snow Queen in a richly-detailed alternate Victorian England."
 tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
@@ -38,7 +38,7 @@ intro: |
   The fourth novel in Mercedes Lackey's magical Elemental Masters series reimagines the fairy tale The Snow Queen in a richly-detailed alternate Victorian England
 
 
-  The letter that introduced twelve-year-old Sarah Jane Lyon-White to Isabelle Harton, who ran the Harton School in central London, seemed quite simple and straightforward. Bat it was what was not written in the letter that resonated to Isabelle's own finely tuned "extra" senses: "Sarah has gifts we cannot train," the letter whispered to her, "nor can anyone we know. Those we trust tell us that you can...."
+  The letter that introduced twelve-year-old Sarah Jane Lyon-White to Isabelle Harton, who ran the Harton School in central London, seemed quite simple and straightforward. But it was what was not written in the letter that resonated to Isabelle's own finely tuned "extra" senses: "Sarah has gifts we cannot train," the letter whispered to her, "nor can anyone we know. Those we trust tell us that you can...."
 
 
   And it was true, for the Harton School was far from ordinary. It was Isabelle's job to train children who possessed the odd types of magic that could not be trained by London's powerful Elemental Masters: clairvoyants, telepaths, those with the ability to sense hidden danger, the vision to see into the past, and even that rarest of all talents: the ability to see and communicate with the dead.

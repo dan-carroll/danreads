@@ -5,10 +5,10 @@ series: Elemental Masters
 series_num: 2
 permalink: /reviews/fantasy/the_gates_of_sleep.html
 date: 2021-06-03
-review_date: 2021-08-07
+review_date: 2021-08-17
 updated: 
 page_author: Dan Carroll - Florida
-published: false
+published: true
 description: "The second novel in Mercedes Lackey's magical Elemental Masters series reimagines the fairy tale Sleeping Beauty in a richly-detailed alternate Victorian England."
 tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
@@ -44,4 +44,8 @@ intro: |
   But Marina would have answers to her questions all too soon. For with the sudden death of her birth parents, Marina met her new guardian–her father's eldest sister Arachne. Aunt Arachne exuded a dark magical aura unlike anything Marina had encountered, a stifling evil that seemed to threaten Marina's very spirit. Slowly Marina realized that her aunt was the embodiment of the danger her parents had been hiding her from in the backwoods of Cornwall. But could Marina unravel the secrets of her life in time to save herself from the evil that had been seeking her for nearly eighteen years?
 ---
 
+A quite good retelling of the *Sleeping Beauty* fairy tale. A lot of historical fact mixed in with fictional magic and a very decent story line. Mercedes Lackey entertains the reader with another example of the story-teller's art.
 
+A great read with thrills and some mystery–plus some plot "twists" that intrigue but leave one hanging at times. Be entertained, enjoy the historical aspects and the world of magic, and relax with this interesting read. You won't have to stretch your mental faculties too much.
+
+This story does have the feel of one intended for a younger–or less sophisticated–audience. Which is precisely what I look for–to be entertained. I found this to be an enjoyable, relaxing read.

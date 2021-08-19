@@ -5,10 +5,10 @@ series: Elemental Masters
 series_num: 3
 permalink: /reviews/fantasy/phoenix_and_ashes.html
 date: 2021-06-04
-review_date: 2021-08-07
+review_date: 2021-08-17
 updated: 
 page_author: Dan Carroll - Florida
-published: false
+published: true
 description: "Following her acclaimed novels The Serpent's Shadow and The Gates of Sleep, Mercedes Lackey reinvents a classic fairy tale-and gives it a new twist. In a dark and atmospheric retelling of Cinderella, she sets her story in London during the first World War."
 tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
 type: review
@@ -56,4 +56,10 @@ intro: |
   Eleanor and Reginald were two souls scourged by war and evil magic. Could they find the strength to help one another rise from the ashes of their destruction?
 ---
 
+Another great story from Mercedes Lackey. Really. This one turns out to have a great story line and very well, thought-out characters.
 
+The historical setting and nuances provide a great backdrop to a retelling of the *Cinderella* fairy tale with elemental magic–and mages–woven in. What a great way to learn how it was to live in England during the first World War. And it is an entertaining, thrill of a read.
+
+This book is a page-turner. So hard to put down. And in every romance there is a prince and a princess–without the need of a castle.
+
+(Yeah, that last part was a little hoakey. But serioudly, read the story.)
