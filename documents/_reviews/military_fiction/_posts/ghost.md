@@ -5,8 +5,9 @@ series: "Paladin of Shadows"
 series_num: 1
 permalink: /reviews/military_fiction/ghost.html
 date: 2021-07-24
+review_date: 
 updated: 2021-07-27
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: true
 description: 'This "Ghost" may not walk through walls, but walls had better not get in his way! A new techno-thriller adventure series by a New York Times best-selling author. This is a breakout title with strong cross-category appeal.'
 tags: [action, adventure, thriller, war, military, military_fiction]

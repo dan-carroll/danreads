@@ -7,7 +7,7 @@ permalink: the_silver_bullets_of_annie_oakley.html
 date: 2021-06-19
 review_date: 2021-08-10
 updated: 
-author: Dan Carroll - Florida
+page_author: Dan Carroll - Florida
 published: false
 description: ""
 tags: [magic, fairytale, folktale, fantasy, historical_fiction, alternate_history, mercedes_lackey]
