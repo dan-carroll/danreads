@@ -40,6 +40,9 @@
 - name: Dragon
   slug: dragon
 
+- name: Dragonrider
+  slug: dragonrider
+
 - name: Elves
   slug: elves
 
