@@ -1,7 +1,7 @@
-url: "https://danreads.dmcarroll.net" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dan-carroll.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/danreads" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
-email: dan@dmcarroll.net
+email: dcarroll809@hotmail.com
 description: "Lists and reviews of my favorite books and authors."
 author: "Dan Carroll, Florida, USA"
 copyright: "Copyright 2021. Daniel M. Carroll. All Rights Reserved."
