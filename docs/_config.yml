@@ -1,4 +1,4 @@
-url: "https://dan-carroll.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dan-carroll.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/danreads" # the subpath of your site, e.g. /blog
 title: "Dan's Reading List and Reviews"
 email: dcarroll809@hotmail.com

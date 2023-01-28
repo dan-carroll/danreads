@@ -11,13 +11,13 @@
 	
     <title>{{ page.title }} - {{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
 	
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	<link rel="manifest" href="/site.webmanifest">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
+	<link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
+	<link rel="mask-icon" href="{{ site.baseurl }}/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#ffc40d">
 	<meta name="theme-color" content="#ffffff">
 
@@ -41,7 +41,7 @@
       <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark px-lg-5">
 
 		  <span class="navbar-brand bg-dark mb-0 mx-lg-5 mx-md-3 h1">
-		  <img src="/assets/img/icon-192x192.png" alt="books icon" width="50" height="50">
+		  <img src="{{ site.baseurl }}/assets/img/icon-192x192.png" alt="books icon" width="50" height="50">
 		  &nbsp; &nbsp; Dan Reads</span>
 
 		<button class="navbar-toggler navbar-toggler-right mr-md-3" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,7 +55,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/">Home 
+              <a class="nav-link" href="{{ site.baseurl }}">Home 
 			{% if page.title == "Home" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -66,7 +66,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/news.html">News
+              <a class="nav-link" href="{{ site.baseurl }}/news.html">News
 			{% if page.title == "News" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -77,7 +77,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/reviews.html">Reviews
+              <a class="nav-link" href="{{ site.baseurl }}/reviews.html">Reviews
 			{% if page.title == "Reviews" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -88,7 +88,7 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/authors.html">Authors
+              <a class="nav-link" href="{{ site.baseurl }}/authors.html">Authors
 			{% if page.title == "Authors" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
@@ -99,14 +99,14 @@
 			active
 			{% endif %}
 			">
-              <a class="nav-link" href="/about.html">About
+              <a class="nav-link" href="{{ site.baseurl }}/about.html">About
 			{% if page.title == "About" %}  
 			  <span class="sr-only">(current)</span>
 			{% endif %}
 			  </a>
             </li>
 			<li class="nav-item">
-			  <a class="nav-link" href="{{ site.url }}/feed.xml">RSS</a>
+			  <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/feed.xml">RSS</a>
 			</li>
           </ul>
         </div>
@@ -136,27 +136,27 @@
 				<h5 class="text-center">Social Sites</h5>
 				<ul style="list-style-type: none;font-size: 1rem;">
 				  <li>
-					<img src="/assets/img/facebook.svg" alt="Facebook" width="28" height="28">
+					<img src="{{ site.baseurl }}/assets/img/facebook.svg" alt="Facebook" width="28" height="28">
 					  <a href="{{site.facebook}}" class="text-white" target="_blank"> Facebook.com/{{site.facebook_username}}</a>
 				  </li>
 				  <li class="pt-2">
 					<a href="https://twitter.com/FloriDanOnline" class="text-white" target="_blank">
-					<img src="/assets/img/twitter.svg" alt="Twitter" width="28" height="28">
+					<img src="{{ site.baseurl }}/assets/img/twitter.svg" alt="Twitter" width="28" height="28">
 					Twitter.com/FloriDanOnline</a>
 				  </li>
 				  <li class="pt-2">
 					<a href="https://github.com/dan-carroll" class="text-white" target="_blank">
-					<img src="/assets/img/github.svg" alt="GitHub" width="28" height="28">
+					<img src="{{ site.baseurl }}/assets/img/github.svg" alt="GitHub" width="28" height="28">
 					Github.com/dan-carroll</a>
 				  </li>
 				  <li class="pt-2">
 					<a href="https://www.instagram.com/dcarroll809/" class="text-white" target="_blank">
-					<img src="/assets/img/instagram.svg" alt="Instagram" width="28" height="28">
+					<img src="{{ site.baseurl }}/assets/img/instagram.svg" alt="Instagram" width="28" height="28">
 					Instagram.com/dcarroll809</a>
 				  </li>
 				  <li class="pt-2">
 					<a href="https://www.linkedin.com/in/dan-carroll-in-florida/" class="text-white" target="_blank">
-					<img src="/assets/img/linkedin.svg" alt="LinkedIn" width="28" height="28">
+					<img src="{{ site.baseurl }}/assets/img/linkedin.svg" alt="LinkedIn" width="28" height="28">
 					Linkedin.com/in/dan-carroll-in-florida</a>
 				  </li>
 				</ul>
@@ -169,23 +169,23 @@
 				<h5 class="text-center">Additional Pages</h5>
 				<ul>
 				  <li>
-					<a href="/terms_of_service.html" class="text-white">
+					<a href="{{ site.baseurl }}/terms_of_service.html" class="text-white">
 					Terms of Service</a>
 				  </li>
 				  <li>
-					<a href="/privacy_policy.html" class="text-white">
+					<a href="{{ site.baseurl }}/privacy_policy.html" class="text-white">
 					Privacy Policy</a>
 				  </li>
 				  <li>
-					<a href="/review_policy.html" class="text-white">
+					<a href="{{ site.baseurl }}/review_policy.html" class="text-white">
 					Review Policy</a>
 				  </li>
 				  <li>
-					<a href="/cookie_policy.html" class="text-white">
+					<a href="{{ site.baseurl }}/cookie_policy.html" class="text-white">
 					Cookie Policy</a>
 				  </li>
 				  <li>
-				    <a href="/tag-list.html" class="text-white">
+				    <a href="{{ site.baseurl }}/tag-list.html" class="text-white">
 					List of All Tags</a>
 				  </li>
 				</ul>
@@ -215,8 +215,8 @@
 	  </div>
 
 		<!-- Copyright -->
-	  <div class="text-center py-3 bg-info">© 2021 Dan Carroll @
-		  <a href="https://dmcarroll.net/" class="text-white"> DMCarroll.net</a>
+	  <div class="text-center py-3 bg-info">© 2023 Dan Carroll @
+		  <a href="{{ site.url }}{{ site.baseurl }}" class="text-white"> Dan Carroll on GitHub</a>
 		  {% if page.updated %}
 		  </br>Updated: {{ page.updated }}
 		  {% endif %}
