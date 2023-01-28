@@ -17,7 +17,7 @@ summary: |
   He has written science fiction, military fiction, and fantasy.
 name: John Ringo
 name_key: ringo_john
-photo: /assets/img/authors/john_ringo.jpg
+photo: /assets/img/authors/John_Ringo.jpg
 genre: Science Fiction
 wikipedia: "https://en.wikipedia.org/wiki/John_Ringo"
 goodreads: "https://www.goodreads.com/author/show/14219.John_Ringo"

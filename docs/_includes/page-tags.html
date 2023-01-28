@@ -1,6 +1,6 @@
 	<p>
       Tagged:
       {% for tag in page.tags %}
-      &nbsp;&nbsp;<a class="post" href="/tags/{{tag}}.html">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+      &nbsp;&nbsp;<a class="post" href="{{ site.baseurl }}/tags/{{tag}}.html">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
     </p>
