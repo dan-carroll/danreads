@@ -26,11 +26,11 @@ description: "What I think of the books I have read. And hopefully you'll be int
 			{% for review in filtered_posts %}
 			  <!-- {% increment count_all %} -->
 			{% endfor %}
-			<img class="mx-2 rounded float-left" src="/assets/img/icon-192x192.png" alt="books icon" style="width: 25%;height:auto;">
+			<img class="mx-2 rounded float-left" src="{{ site.baseurl }}/assets/img/icon-192x192.png" alt="books icon" style="width: 25%;height:auto;">
 		    <h2>All Reviews&nbsp;&nbsp;<span class="badge badge-info">{{ count_all }}</span></h2>
 		  </p>
 		  <p>
-			<a href="/reviews/reviews-all.html">Ready to read some reviews?</a>
+			<a href="{{ site.baseurl }}/reviews/reviews-all.html">Ready to read some reviews?</a>
 		  </p>
 		</div>
 	{% for genre in site.data.genres %}
@@ -44,7 +44,7 @@ description: "What I think of the books I have read. And hopefully you'll be int
 		<div class="px-3 clearfix">
 		  <p>
 		  {% if genre.image %}
-			<img class="mx-2 rounded float-left" src="{{ genre.image }}" alt="{{ genre.image_alt }}" style="width: 25%;height:auto;">
+			<img class="mx-2 rounded float-left" src="{{ site.baseurl }}{{ genre.image }}" alt="{{ genre.image_alt }}" style="width: 25%;height:auto;">
 		  {% endif %}
 			<h2>{{ genre.name }}&nbsp;&nbsp;<span class="badge badge-info">{{ my_count }}</span></h2>
 		  </p>
