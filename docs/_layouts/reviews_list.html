@@ -5,10 +5,10 @@ layout: default
   <div class="row">
 	<div class="col-12 col-md-5 my-4 mx-auto pl-4">
 	  <p>
-	    <a href="/reviews.html">Reviews</a>&nbsp;/&nbsp;{{ page.genre | capitalize }}
+	    <a href="{{ site.baseurl }}/reviews.html">Reviews</a>&nbsp;/&nbsp;{{ page.genre | capitalize }}
 	  <p>
 	{% if page.image %}
-	    <img class="mx-2 rounded float-left" src="{{ page.image }}" alt="{{ page.image_alt }}" style="width: 25%;height:auto;">
+	    <img class="mx-2 rounded float-left" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt }}" style="width: 25%;height:auto;">
 	{% endif %}
 	    <h1 class="mt-1 text-left text-primary">{{ page.title }}</h1>
 	  </p>
@@ -24,9 +24,9 @@ layout: default
 	  {% for review in filtered_posts %}
 	    <hr>
 	    {% if review.cover_image %}
-	    <img class="mx-2 rounded float-left" src="{{ review.cover_image }}" alt="books icon" style="width: 25%;height:auto;">
+	    <img class="mx-2 rounded float-left" src="{{ site.baseurl }}{{ review.cover_image }}" alt="books icon" style="width: 25%;height:auto;">
 	    {% endif %}
-	    <a href="{{ review.url }}">
+	    <a href="{{ site.baseurl }}{{ review.url }}">
 	    <h2 class="text-primary">{{ review.title }}</h2></a>
 	    {% if review.series %}
 	    <h5 class="text-muted">{{ review.series }} Series
@@ -34,7 +34,7 @@ layout: default
         {% endif %}	
 	    <h4 class="pl-4">{{ review.copyright }}&nbsp;&nbsp;--&nbsp;&nbsp;
 	    {% if review.author_page %}
-	    <a href="/authors/{{ review.author_page }}.html">{{ review.author }}</a></h4>
+	    <a href="{{ site.baseurl }}/authors/{{ review.author_page }}.html">{{ review.author }}</a></h4>
 	    {% else %}
 	    {{ review.author }}</h4>
 	    {% endif %}
