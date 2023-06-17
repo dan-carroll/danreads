@@ -4,9 +4,11 @@ layout: default
 
 <div class="row">
   <div class="col-12 col-md-6">
-	<div class="text-center">
-	  <img class="mx-auto" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt }} image" style="max-width:50%;height:auto;">
-	</div>
+    {% if page.image %}
+    <div class="text-center">
+	    <img class="mx-auto" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt }} image" style="max-width:50%;height:auto;">
+	  </div>
+    {% endif %}
 	<h2 class="text-center text-primary">{{ page.title }}</h2>
 	<p class="text-right">{{ page.date | date_to_string }} - {{ page.author }}</p>
   </div>
