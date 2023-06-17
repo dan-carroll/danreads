@@ -6,7 +6,7 @@ genre: fantasy
 type: index
 permalink: "/reviews/fantasy/"
 summary: 
-image: "/danreads/assets/img/fantasy/magic-wand.png"
+image: "/assets/img/fantasy/magic-wand.png"
 image_alt: "Fantasy image"
 number: 0
 ---
