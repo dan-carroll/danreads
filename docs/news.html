@@ -21,7 +21,9 @@ description: Updates on what's happening on this blog. Or what I find interestin
 
 	<div class="col mb-4 mx-auto">
         <div class="card mx-3" style="width: 28rem;">
+		  {% if post.image %}
 		  <img class="card-img-top mx-auto" src="{{ post.image }}" alt="{{ post.image_alt }} image" style="max-width: 80%;height:auto;">
+		  {% endif %}
 		  <div class="card-body">
 		    <h2 class="card-title">{{ post.title }}</h2>
 			<p>{{ post.date | date_to_string }} - {{ post.author }}</p>
